@@ -13,6 +13,7 @@ class Card {
                 "suit='" + suit + '\'' +
                 ", rank=" + rank +
                 '}';*/
+        //显示
         return  "["+suit+","+rank+"]";
     }
 }
