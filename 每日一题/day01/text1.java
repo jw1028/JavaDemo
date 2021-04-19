@@ -11,6 +11,7 @@ public class Main{
             Arrays.sort(array); 
             long sum = 0; 
             for (int i = 0; i < n; i++) { 
+                //核心公式
                 sum += array[array.length-(2*(i+1))]; 
             } 
             System.out.println(sum); 
