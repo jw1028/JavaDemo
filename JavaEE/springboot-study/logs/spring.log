@@ -1,0 +1,1008 @@
+2021-06-27 12:00:23.410  INFO 14868 --- [restartedMain] org.example.Application                  : Starting Application on zjc with PID 14868 (E:\Javacode\springboot-study\target\classes started by zjc in E:\Javacode\springboot-study)
+2021-06-27 12:00:23.410 DEBUG 14868 --- [restartedMain] org.example.Application                  : Running with Spring Boot v2.3.5.RELEASE, Spring v5.2.10.RELEASE
+2021-06-27 12:00:23.410  INFO 14868 --- [restartedMain] org.example.Application                  : No active profile set, falling back to default profiles: default
+2021-06-27 12:00:23.563  WARN 14868 --- [restartedMain] io.undertow.websockets.jsr               : UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+2021-06-27 12:00:23.579  INFO 14868 --- [restartedMain] io.undertow.servlet                      : Initializing Spring embedded WebApplicationContext
+2021-06-27 12:00:23.579  INFO 14868 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 169 ms
+2021-06-27 12:00:23.594  INFO 14868 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2021-06-27 12:00:23.610  INFO 14868 --- [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [public/index.html]
+2021-06-27 12:00:23.625  INFO 14868 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2021-06-27 12:00:23.625  INFO 14868 --- [restartedMain] io.undertow                              : starting server: Undertow - 2.1.4.Final
+2021-06-27 12:00:23.625  INFO 14868 --- [restartedMain] o.s.b.w.e.undertow.UndertowWebServer     : Undertow started on port(s) 8080 (http)
+2021-06-27 12:00:23.641  INFO 14868 --- [restartedMain] org.example.Application                  : Started Application in 0.27 seconds (JVM running for 598.692)
+2021-06-27 12:00:23.641  INFO 14868 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2021-06-27 12:01:43.751  INFO 14868 --- [XNIO-2 task-1] io.undertow.servlet                      : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-06-27 12:01:43.751  INFO 14868 --- [XNIO-2 task-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2021-06-27 12:01:43.757  INFO 14868 --- [XNIO-2 task-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 6 ms
+2021-06-27 12:01:50.323  INFO 14868 --- [Thread-13] io.undertow                              : stopping server: Undertow - 2.1.4.Final
+2021-06-27 12:01:50.323  INFO 14868 --- [Thread-13] io.undertow.servlet                      : Destroying Spring FrameworkServlet 'dispatcherServlet'
+2021-06-27 12:01:50.323  INFO 14868 --- [Thread-13] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2021-06-27 12:01:50.417  INFO 14868 --- [restartedMain] org.example.Application                  : Starting Application on zjc with PID 14868 (E:\Javacode\springboot-study\target\classes started by zjc in E:\Javacode\springboot-study)
+2021-06-27 12:01:50.417 DEBUG 14868 --- [restartedMain] org.example.Application                  : Running with Spring Boot v2.3.5.RELEASE, Spring v5.2.10.RELEASE
+2021-06-27 12:01:50.417  INFO 14868 --- [restartedMain] org.example.Application                  : No active profile set, falling back to default profiles: default
+2021-06-27 12:01:50.558  WARN 14868 --- [restartedMain] io.undertow.websockets.jsr               : UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+2021-06-27 12:01:50.558  INFO 14868 --- [restartedMain] io.undertow.servlet                      : Initializing Spring embedded WebApplicationContext
+2021-06-27 12:01:50.558  INFO 14868 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 141 ms
+2021-06-27 12:01:50.589  INFO 14868 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2021-06-27 12:01:50.589  INFO 14868 --- [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [public/index.html]
+2021-06-27 12:01:50.620  INFO 14868 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2021-06-27 12:01:50.620  INFO 14868 --- [restartedMain] io.undertow                              : starting server: Undertow - 2.1.4.Final
+2021-06-27 12:01:50.620  INFO 14868 --- [restartedMain] o.s.b.w.e.undertow.UndertowWebServer     : Undertow started on port(s) 8080 (http)
+2021-06-27 12:01:50.636  INFO 14868 --- [restartedMain] org.example.Application                  : Started Application in 0.23 seconds (JVM running for 685.686)
+2021-06-27 12:01:50.636  INFO 14868 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2021-06-27 12:03:06.560  INFO 15452 --- [restartedMain] org.example.Application                  : Starting Application on zjc with PID 15452 (E:\Javacode\springboot-study\target\classes started by zjc in E:\Javacode\springboot-study)
+2021-06-27 12:03:06.563 DEBUG 15452 --- [restartedMain] org.example.Application                  : Running with Spring Boot v2.3.5.RELEASE, Spring v5.2.10.RELEASE
+2021-06-27 12:03:06.563  INFO 15452 --- [restartedMain] org.example.Application                  : No active profile set, falling back to default profiles: default
+2021-06-27 12:03:06.606  INFO 15452 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-06-27 12:03:06.606  INFO 15452 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-06-27 12:03:07.227  WARN 15452 --- [restartedMain] io.undertow.websockets.jsr               : UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+2021-06-27 12:03:07.243  INFO 15452 --- [restartedMain] io.undertow.servlet                      : Initializing Spring embedded WebApplicationContext
+2021-06-27 12:03:07.243  INFO 15452 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 637 ms
+2021-06-27 12:03:07.352  INFO 15452 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2021-06-27 12:03:07.399  INFO 15452 --- [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [public/index.html]
+2021-06-27 12:03:07.446  INFO 15452 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2021-06-27 12:03:07.461  INFO 15452 --- [restartedMain] io.undertow                              : starting server: Undertow - 2.1.4.Final
+2021-06-27 12:03:07.461  INFO 15452 --- [restartedMain] org.xnio                                 : XNIO version 3.8.0.Final
+2021-06-27 12:03:07.461  INFO 15452 --- [restartedMain] org.xnio.nio                             : XNIO NIO Implementation Version 3.8.0.Final
+2021-06-27 12:03:07.490  INFO 15452 --- [restartedMain] org.jboss.threads                        : JBoss Threads version 3.1.0.Final
+2021-06-27 12:03:07.521  INFO 15452 --- [restartedMain] o.s.b.w.e.undertow.UndertowWebServer     : Undertow started on port(s) 8080 (http)
+2021-06-27 12:03:07.521  INFO 15452 --- [restartedMain] org.example.Application                  : Started Application in 1.258 seconds (JVM running for 1.963)
+2021-06-27 12:03:24.048  INFO 15452 --- [XNIO-1 task-1] io.undertow.servlet                      : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-06-27 12:03:24.048  INFO 15452 --- [XNIO-1 task-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2021-06-27 12:03:24.051  INFO 15452 --- [XNIO-1 task-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 3 ms
+2021-06-27 12:03:24.064 ERROR 15452 --- [XNIO-1 task-1] org.example.controller.MvcController     : 我是301重定向
+2021-06-27 12:36:07.028  INFO 19128 --- [restartedMain] org.example.Application                  : Starting Application on zjc with PID 19128 (E:\Javacode\springboot-study\target\classes started by zjc in E:\Javacode\springboot-study)
+2021-06-27 12:36:07.043 DEBUG 19128 --- [restartedMain] org.example.Application                  : Running with Spring Boot v2.3.5.RELEASE, Spring v5.2.10.RELEASE
+2021-06-27 12:36:07.043  INFO 19128 --- [restartedMain] org.example.Application                  : No active profile set, falling back to default profiles: default
+2021-06-27 12:36:07.075  INFO 19128 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-06-27 12:36:07.075  INFO 19128 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-06-27 12:36:07.697  WARN 19128 --- [restartedMain] io.undertow.websockets.jsr               : UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+2021-06-27 12:36:07.722  INFO 19128 --- [restartedMain] io.undertow.servlet                      : Initializing Spring embedded WebApplicationContext
+2021-06-27 12:36:07.722  INFO 19128 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 647 ms
+2021-06-27 12:36:07.833  INFO 19128 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2021-06-27 12:36:07.867  INFO 19128 --- [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [public/index.html]
+2021-06-27 12:36:07.927  INFO 19128 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2021-06-27 12:36:07.942  INFO 19128 --- [restartedMain] io.undertow                              : starting server: Undertow - 2.1.4.Final
+2021-06-27 12:36:07.945  INFO 19128 --- [restartedMain] org.xnio                                 : XNIO version 3.8.0.Final
+2021-06-27 12:36:07.949  INFO 19128 --- [restartedMain] org.xnio.nio                             : XNIO NIO Implementation Version 3.8.0.Final
+2021-06-27 12:36:07.956  INFO 19128 --- [restartedMain] org.jboss.threads                        : JBoss Threads version 3.1.0.Final
+2021-06-27 12:36:07.997  INFO 19128 --- [restartedMain] o.s.b.w.e.undertow.UndertowWebServer     : Undertow started on port(s) 8080 (http)
+2021-06-27 12:36:07.997  INFO 19128 --- [restartedMain] org.example.Application                  : Started Application in 1.217 seconds (JVM running for 1.933)
+2021-06-27 14:48:44.669  INFO 15896 --- [restartedMain] org.example.Application                  : Starting Application on zjc with PID 15896 (E:\Javacode\springboot-study\target\classes started by zjc in E:\Javacode\springboot-study)
+2021-06-27 14:48:44.669 DEBUG 15896 --- [restartedMain] org.example.Application                  : Running with Spring Boot v2.3.5.RELEASE, Spring v5.2.10.RELEASE
+2021-06-27 14:48:44.669  INFO 15896 --- [restartedMain] org.example.Application                  : No active profile set, falling back to default profiles: default
+2021-06-27 14:48:44.716  INFO 15896 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-06-27 14:48:44.716  INFO 15896 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-06-27 14:48:45.378  WARN 15896 --- [restartedMain] io.undertow.websockets.jsr               : UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+2021-06-27 14:48:45.393  INFO 15896 --- [restartedMain] io.undertow.servlet                      : Initializing Spring embedded WebApplicationContext
+2021-06-27 14:48:45.393  INFO 15896 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 677 ms
+2021-06-27 14:48:45.534  INFO 15896 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2021-06-27 14:48:45.565  INFO 15896 --- [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [public/index.html]
+2021-06-27 14:48:45.628  INFO 15896 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2021-06-27 14:48:45.643  INFO 15896 --- [restartedMain] io.undertow                              : starting server: Undertow - 2.1.4.Final
+2021-06-27 14:48:45.643  INFO 15896 --- [restartedMain] org.xnio                                 : XNIO version 3.8.0.Final
+2021-06-27 14:48:45.643  INFO 15896 --- [restartedMain] org.xnio.nio                             : XNIO NIO Implementation Version 3.8.0.Final
+2021-06-27 14:48:45.674  INFO 15896 --- [restartedMain] org.jboss.threads                        : JBoss Threads version 3.1.0.Final
+2021-06-27 14:48:45.706  INFO 15896 --- [restartedMain] io.undertow                              : stopping server: Undertow - 2.1.4.Final
+2021-06-27 14:48:45.706  WARN 15896 --- [restartedMain] ConfigServletWebServerApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'webServerStartStop'; nested exception is org.springframework.boot.web.server.PortInUseException: Port 8080 is already in use
+2021-06-27 14:48:45.706  INFO 15896 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2021-06-27 14:48:45.706  INFO 15896 --- [restartedMain] ConditionEvaluationReportLoggingListener : 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2021-06-27 14:48:45.706 ERROR 15896 --- [restartedMain] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 8080 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 8080 or configure this application to listen on another port.
+
+2021-06-27 14:49:03.827  INFO 18892 --- [restartedMain] org.example.Application                  : Starting Application on zjc with PID 18892 (E:\Javacode\springboot-study\target\classes started by zjc in E:\Javacode\springboot-study)
+2021-06-27 14:49:03.829 DEBUG 18892 --- [restartedMain] org.example.Application                  : Running with Spring Boot v2.3.5.RELEASE, Spring v5.2.10.RELEASE
+2021-06-27 14:49:03.829  INFO 18892 --- [restartedMain] org.example.Application                  : No active profile set, falling back to default profiles: default
+2021-06-27 14:49:03.860  INFO 18892 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-06-27 14:49:03.861  INFO 18892 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-06-27 14:49:04.431  WARN 18892 --- [restartedMain] io.undertow.websockets.jsr               : UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+2021-06-27 14:49:04.446  INFO 18892 --- [restartedMain] io.undertow.servlet                      : Initializing Spring embedded WebApplicationContext
+2021-06-27 14:49:04.446  INFO 18892 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 585 ms
+2021-06-27 14:49:04.571  INFO 18892 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2021-06-27 14:49:04.603  INFO 18892 --- [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [public/index.html]
+2021-06-27 14:49:04.656  INFO 18892 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2021-06-27 14:49:04.671  INFO 18892 --- [restartedMain] io.undertow                              : starting server: Undertow - 2.1.4.Final
+2021-06-27 14:49:04.674  INFO 18892 --- [restartedMain] org.xnio                                 : XNIO version 3.8.0.Final
+2021-06-27 14:49:04.678  INFO 18892 --- [restartedMain] org.xnio.nio                             : XNIO NIO Implementation Version 3.8.0.Final
+2021-06-27 14:49:04.698  INFO 18892 --- [restartedMain] org.jboss.threads                        : JBoss Threads version 3.1.0.Final
+2021-06-27 14:49:04.729  INFO 18892 --- [restartedMain] o.s.b.w.e.undertow.UndertowWebServer     : Undertow started on port(s) 8080 (http)
+2021-06-27 14:49:04.736  INFO 18892 --- [restartedMain] org.example.Application                  : Started Application in 1.188 seconds (JVM running for 1.967)
+2021-06-27 14:49:34.913  INFO 18892 --- [XNIO-1 task-1] io.undertow.servlet                      : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-06-27 14:49:34.913  INFO 18892 --- [XNIO-1 task-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2021-06-27 14:49:34.917  INFO 18892 --- [XNIO-1 task-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 4 ms
+2021-06-27 14:52:25.222  INFO 17400 --- [restartedMain] org.example.Application                  : Starting Application on zjc with PID 17400 (E:\Javacode\springboot-study\target\classes started by zjc in E:\Javacode\springboot-study)
+2021-06-27 14:52:25.224 DEBUG 17400 --- [restartedMain] org.example.Application                  : Running with Spring Boot v2.3.5.RELEASE, Spring v5.2.10.RELEASE
+2021-06-27 14:52:25.225  INFO 17400 --- [restartedMain] org.example.Application                  : No active profile set, falling back to default profiles: default
+2021-06-27 14:52:25.259  INFO 17400 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-06-27 14:52:25.260  INFO 17400 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-06-27 14:52:25.867  WARN 17400 --- [restartedMain] io.undertow.websockets.jsr               : UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+2021-06-27 14:52:25.883  INFO 17400 --- [restartedMain] io.undertow.servlet                      : Initializing Spring embedded WebApplicationContext
+2021-06-27 14:52:25.883  INFO 17400 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 623 ms
+2021-06-27 14:52:25.992  INFO 17400 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2021-06-27 14:52:26.039  INFO 17400 --- [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [public/index.html]
+2021-06-27 14:52:26.086  INFO 17400 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2021-06-27 14:52:26.101  INFO 17400 --- [restartedMain] io.undertow                              : starting server: Undertow - 2.1.4.Final
+2021-06-27 14:52:26.101  INFO 17400 --- [restartedMain] org.xnio                                 : XNIO version 3.8.0.Final
+2021-06-27 14:52:26.101  INFO 17400 --- [restartedMain] org.xnio.nio                             : XNIO NIO Implementation Version 3.8.0.Final
+2021-06-27 14:52:26.117  INFO 17400 --- [restartedMain] org.jboss.threads                        : JBoss Threads version 3.1.0.Final
+2021-06-27 14:52:26.148  INFO 17400 --- [restartedMain] o.s.b.w.e.undertow.UndertowWebServer     : Undertow started on port(s) 8080 (http)
+2021-06-27 14:52:26.164  INFO 17400 --- [restartedMain] org.example.Application                  : Started Application in 1.203 seconds (JVM running for 1.897)
+2021-06-27 14:52:35.103  INFO 17400 --- [XNIO-1 task-1] io.undertow.servlet                      : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-06-27 14:52:35.103  INFO 17400 --- [XNIO-1 task-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2021-06-27 14:52:35.107  INFO 17400 --- [XNIO-1 task-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 4 ms
+2021-06-27 14:53:09.157  INFO 9600 --- [restartedMain] org.example.Application                  : Starting Application on zjc with PID 9600 (E:\Javacode\springboot-study\target\classes started by zjc in E:\Javacode\springboot-study)
+2021-06-27 14:53:09.159 DEBUG 9600 --- [restartedMain] org.example.Application                  : Running with Spring Boot v2.3.5.RELEASE, Spring v5.2.10.RELEASE
+2021-06-27 14:53:09.159  INFO 9600 --- [restartedMain] org.example.Application                  : No active profile set, falling back to default profiles: default
+2021-06-27 14:53:09.192  INFO 9600 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-06-27 14:53:09.192  INFO 9600 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-06-27 14:53:09.832  WARN 9600 --- [restartedMain] io.undertow.websockets.jsr               : UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+2021-06-27 14:53:09.851  INFO 9600 --- [restartedMain] io.undertow.servlet                      : Initializing Spring embedded WebApplicationContext
+2021-06-27 14:53:09.851  INFO 9600 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 659 ms
+2021-06-27 14:53:09.962  INFO 9600 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2021-06-27 14:53:10.006  INFO 9600 --- [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [public/index.html]
+2021-06-27 14:53:10.054  INFO 9600 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2021-06-27 14:53:10.069  INFO 9600 --- [restartedMain] io.undertow                              : starting server: Undertow - 2.1.4.Final
+2021-06-27 14:53:10.072  INFO 9600 --- [restartedMain] org.xnio                                 : XNIO version 3.8.0.Final
+2021-06-27 14:53:10.076  INFO 9600 --- [restartedMain] org.xnio.nio                             : XNIO NIO Implementation Version 3.8.0.Final
+2021-06-27 14:53:10.098  INFO 9600 --- [restartedMain] org.jboss.threads                        : JBoss Threads version 3.1.0.Final
+2021-06-27 14:53:10.130  INFO 9600 --- [restartedMain] o.s.b.w.e.undertow.UndertowWebServer     : Undertow started on port(s) 8080 (http)
+2021-06-27 14:53:10.137  INFO 9600 --- [restartedMain] org.example.Application                  : Started Application in 1.234 seconds (JVM running for 1.929)
+2021-06-27 14:53:17.857  INFO 9600 --- [XNIO-1 task-1] io.undertow.servlet                      : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-06-27 14:53:17.857  INFO 9600 --- [XNIO-1 task-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2021-06-27 14:53:17.861  INFO 9600 --- [XNIO-1 task-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 4 ms
+2021-06-27 15:11:01.371  INFO 18356 --- [restartedMain] org.example.Application                  : Starting Application on zjc with PID 18356 (E:\Javacode\springboot-study\target\classes started by zjc in E:\Javacode\springboot-study)
+2021-06-27 15:11:01.386 DEBUG 18356 --- [restartedMain] org.example.Application                  : Running with Spring Boot v2.3.5.RELEASE, Spring v5.2.10.RELEASE
+2021-06-27 15:11:01.386  INFO 18356 --- [restartedMain] org.example.Application                  : No active profile set, falling back to default profiles: default
+2021-06-27 15:11:01.417  INFO 18356 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-06-27 15:11:01.417  INFO 18356 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-06-27 15:11:02.085  WARN 18356 --- [restartedMain] io.undertow.websockets.jsr               : UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+2021-06-27 15:11:02.100  INFO 18356 --- [restartedMain] io.undertow.servlet                      : Initializing Spring embedded WebApplicationContext
+2021-06-27 15:11:02.100  INFO 18356 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 683 ms
+2021-06-27 15:11:02.213  INFO 18356 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2021-06-27 15:11:02.260  INFO 18356 --- [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [public/index.html]
+2021-06-27 15:11:02.307  INFO 18356 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2021-06-27 15:11:02.322  INFO 18356 --- [restartedMain] io.undertow                              : starting server: Undertow - 2.1.4.Final
+2021-06-27 15:11:02.322  INFO 18356 --- [restartedMain] org.xnio                                 : XNIO version 3.8.0.Final
+2021-06-27 15:11:02.322  INFO 18356 --- [restartedMain] org.xnio.nio                             : XNIO NIO Implementation Version 3.8.0.Final
+2021-06-27 15:11:02.354  INFO 18356 --- [restartedMain] org.jboss.threads                        : JBoss Threads version 3.1.0.Final
+2021-06-27 15:11:02.385  INFO 18356 --- [restartedMain] o.s.b.w.e.undertow.UndertowWebServer     : Undertow started on port(s) 8080 (http)
+2021-06-27 15:11:02.385  INFO 18356 --- [restartedMain] org.example.Application                  : Started Application in 1.264 seconds (JVM running for 1.969)
+2021-06-27 15:11:10.313  INFO 18356 --- [XNIO-1 task-1] io.undertow.servlet                      : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-06-27 15:11:10.313  INFO 18356 --- [XNIO-1 task-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2021-06-27 15:11:10.316  INFO 18356 --- [XNIO-1 task-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 3 ms
+2021-06-27 15:19:28.661  INFO 13100 --- [restartedMain] org.example.Application                  : Starting Application on zjc with PID 13100 (E:\Javacode\springboot-study\target\classes started by zjc in E:\Javacode\springboot-study)
+2021-06-27 15:19:28.661 DEBUG 13100 --- [restartedMain] org.example.Application                  : Running with Spring Boot v2.3.5.RELEASE, Spring v5.2.10.RELEASE
+2021-06-27 15:19:28.661  INFO 13100 --- [restartedMain] org.example.Application                  : No active profile set, falling back to default profiles: default
+2021-06-27 15:19:28.711  INFO 13100 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-06-27 15:19:28.711  INFO 13100 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-06-27 15:19:29.352  WARN 13100 --- [restartedMain] io.undertow.websockets.jsr               : UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+2021-06-27 15:19:29.370  INFO 13100 --- [restartedMain] io.undertow.servlet                      : Initializing Spring embedded WebApplicationContext
+2021-06-27 15:19:29.370  INFO 13100 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 658 ms
+2021-06-27 15:19:29.491  INFO 13100 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2021-06-27 15:19:29.522  INFO 13100 --- [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [public/index.html]
+2021-06-27 15:19:29.576  INFO 13100 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2021-06-27 15:19:29.591  INFO 13100 --- [restartedMain] io.undertow                              : starting server: Undertow - 2.1.4.Final
+2021-06-27 15:19:29.594  INFO 13100 --- [restartedMain] org.xnio                                 : XNIO version 3.8.0.Final
+2021-06-27 15:19:29.598  INFO 13100 --- [restartedMain] org.xnio.nio                             : XNIO NIO Implementation Version 3.8.0.Final
+2021-06-27 15:19:29.621  INFO 13100 --- [restartedMain] org.jboss.threads                        : JBoss Threads version 3.1.0.Final
+2021-06-27 15:19:29.653  INFO 13100 --- [restartedMain] o.s.b.w.e.undertow.UndertowWebServer     : Undertow started on port(s) 8080 (http)
+2021-06-27 15:19:29.660  INFO 13100 --- [restartedMain] org.example.Application                  : Started Application in 1.261 seconds (JVM running for 1.986)
+2021-06-27 15:19:33.380  INFO 13100 --- [XNIO-1 task-1] io.undertow.servlet                      : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-06-27 15:19:33.380  INFO 13100 --- [XNIO-1 task-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2021-06-27 15:19:33.383  INFO 13100 --- [XNIO-1 task-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 3 ms
+2021-06-27 15:21:13.889  INFO 18464 --- [restartedMain] org.example.Application                  : Starting Application on zjc with PID 18464 (E:\Javacode\springboot-study\target\classes started by zjc in E:\Javacode\springboot-study)
+2021-06-27 15:21:13.889 DEBUG 18464 --- [restartedMain] org.example.Application                  : Running with Spring Boot v2.3.5.RELEASE, Spring v5.2.10.RELEASE
+2021-06-27 15:21:13.889  INFO 18464 --- [restartedMain] org.example.Application                  : No active profile set, falling back to default profiles: default
+2021-06-27 15:21:13.920  INFO 18464 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-06-27 15:21:13.920  INFO 18464 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-06-27 15:21:14.529  WARN 18464 --- [restartedMain] io.undertow.websockets.jsr               : UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+2021-06-27 15:21:14.545  INFO 18464 --- [restartedMain] io.undertow.servlet                      : Initializing Spring embedded WebApplicationContext
+2021-06-27 15:21:14.545  INFO 18464 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 625 ms
+2021-06-27 15:21:14.670  INFO 18464 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2021-06-27 15:21:14.701  INFO 18464 --- [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [public/index.html]
+2021-06-27 15:21:14.748  INFO 18464 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2021-06-27 15:21:14.764  INFO 18464 --- [restartedMain] io.undertow                              : starting server: Undertow - 2.1.4.Final
+2021-06-27 15:21:14.764  INFO 18464 --- [restartedMain] org.xnio                                 : XNIO version 3.8.0.Final
+2021-06-27 15:21:14.779  INFO 18464 --- [restartedMain] org.xnio.nio                             : XNIO NIO Implementation Version 3.8.0.Final
+2021-06-27 15:21:14.795  INFO 18464 --- [restartedMain] org.jboss.threads                        : JBoss Threads version 3.1.0.Final
+2021-06-27 15:21:14.826  INFO 18464 --- [restartedMain] o.s.b.w.e.undertow.UndertowWebServer     : Undertow started on port(s) 8080 (http)
+2021-06-27 15:21:14.826  INFO 18464 --- [restartedMain] org.example.Application                  : Started Application in 1.185 seconds (JVM running for 1.865)
+2021-06-27 15:21:25.537  INFO 18464 --- [XNIO-1 task-1] io.undertow.servlet                      : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-06-27 15:21:25.537  INFO 18464 --- [XNIO-1 task-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2021-06-27 15:21:25.541  INFO 18464 --- [XNIO-1 task-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 4 ms
+2021-06-27 15:23:36.055  INFO 16324 --- [restartedMain] org.example.Application                  : Starting Application on zjc with PID 16324 (E:\Javacode\springboot-study\target\classes started by zjc in E:\Javacode\springboot-study)
+2021-06-27 15:23:36.071 DEBUG 16324 --- [restartedMain] org.example.Application                  : Running with Spring Boot v2.3.5.RELEASE, Spring v5.2.10.RELEASE
+2021-06-27 15:23:36.071  INFO 16324 --- [restartedMain] org.example.Application                  : No active profile set, falling back to default profiles: default
+2021-06-27 15:23:36.102  INFO 16324 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-06-27 15:23:36.102  INFO 16324 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-06-27 15:23:36.732  WARN 16324 --- [restartedMain] io.undertow.websockets.jsr               : UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+2021-06-27 15:23:36.747  INFO 16324 --- [restartedMain] io.undertow.servlet                      : Initializing Spring embedded WebApplicationContext
+2021-06-27 15:23:36.747  INFO 16324 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 645 ms
+2021-06-27 15:23:36.857  INFO 16324 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2021-06-27 15:23:36.903  INFO 16324 --- [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [public/index.html]
+2021-06-27 15:23:36.950  INFO 16324 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2021-06-27 15:23:36.966  INFO 16324 --- [restartedMain] io.undertow                              : starting server: Undertow - 2.1.4.Final
+2021-06-27 15:23:36.966  INFO 16324 --- [restartedMain] org.xnio                                 : XNIO version 3.8.0.Final
+2021-06-27 15:23:36.982  INFO 16324 --- [restartedMain] org.xnio.nio                             : XNIO NIO Implementation Version 3.8.0.Final
+2021-06-27 15:23:36.997  INFO 16324 --- [restartedMain] org.jboss.threads                        : JBoss Threads version 3.1.0.Final
+2021-06-27 15:23:37.028  INFO 16324 --- [restartedMain] o.s.b.w.e.undertow.UndertowWebServer     : Undertow started on port(s) 8080 (http)
+2021-06-27 15:23:37.044  INFO 16324 --- [restartedMain] org.example.Application                  : Started Application in 1.221 seconds (JVM running for 1.905)
+2021-06-27 15:23:45.099  INFO 16324 --- [XNIO-1 task-1] io.undertow.servlet                      : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-06-27 15:23:45.099  INFO 16324 --- [XNIO-1 task-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2021-06-27 15:23:45.103  INFO 16324 --- [XNIO-1 task-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 4 ms
+2021-06-27 15:38:04.914  INFO 17932 --- [restartedMain] org.example.Application                  : Starting Application on zjc with PID 17932 (E:\Javacode\springboot-study\target\classes started by zjc in E:\Javacode\springboot-study)
+2021-06-27 15:38:04.914 DEBUG 17932 --- [restartedMain] org.example.Application                  : Running with Spring Boot v2.3.5.RELEASE, Spring v5.2.10.RELEASE
+2021-06-27 15:38:04.914  INFO 17932 --- [restartedMain] org.example.Application                  : No active profile set, falling back to default profiles: default
+2021-06-27 15:38:04.946  INFO 17932 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-06-27 15:38:04.946  INFO 17932 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-06-27 15:38:05.624  WARN 17932 --- [restartedMain] io.undertow.websockets.jsr               : UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+2021-06-27 15:38:05.659  INFO 17932 --- [restartedMain] io.undertow.servlet                      : Initializing Spring embedded WebApplicationContext
+2021-06-27 15:38:05.659  INFO 17932 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 713 ms
+2021-06-27 15:38:05.816  INFO 17932 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2021-06-27 15:38:05.864  INFO 17932 --- [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [public/index.html]
+2021-06-27 15:38:05.937  INFO 17932 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2021-06-27 15:38:05.954  INFO 17932 --- [restartedMain] io.undertow                              : starting server: Undertow - 2.1.4.Final
+2021-06-27 15:38:05.959  INFO 17932 --- [restartedMain] org.xnio                                 : XNIO version 3.8.0.Final
+2021-06-27 15:38:05.963  INFO 17932 --- [restartedMain] org.xnio.nio                             : XNIO NIO Implementation Version 3.8.0.Final
+2021-06-27 15:38:05.986  INFO 17932 --- [restartedMain] org.jboss.threads                        : JBoss Threads version 3.1.0.Final
+2021-06-27 15:38:06.024  INFO 17932 --- [restartedMain] o.s.b.w.e.undertow.UndertowWebServer     : Undertow started on port(s) 8080 (http)
+2021-06-27 15:38:06.031  INFO 17932 --- [restartedMain] org.example.Application                  : Started Application in 1.364 seconds (JVM running for 2.066)
+2021-06-27 15:38:31.047  INFO 17932 --- [XNIO-1 task-1] io.undertow.servlet                      : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-06-27 15:38:31.048  INFO 17932 --- [XNIO-1 task-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2021-06-27 15:38:31.052  INFO 17932 --- [XNIO-1 task-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 4 ms
+2021-06-27 15:41:17.803  INFO 6476 --- [restartedMain] org.example.Application                  : Starting Application on zjc with PID 6476 (E:\Javacode\springboot-study\target\classes started by zjc in E:\Javacode\springboot-study)
+2021-06-27 15:41:17.806 DEBUG 6476 --- [restartedMain] org.example.Application                  : Running with Spring Boot v2.3.5.RELEASE, Spring v5.2.10.RELEASE
+2021-06-27 15:41:17.806  INFO 6476 --- [restartedMain] org.example.Application                  : No active profile set, falling back to default profiles: default
+2021-06-27 15:41:17.844  INFO 6476 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-06-27 15:41:17.844  INFO 6476 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-06-27 15:41:18.460  WARN 6476 --- [restartedMain] io.undertow.websockets.jsr               : UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+2021-06-27 15:41:18.478  INFO 6476 --- [restartedMain] io.undertow.servlet                      : Initializing Spring embedded WebApplicationContext
+2021-06-27 15:41:18.478  INFO 6476 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 634 ms
+2021-06-27 15:41:18.586  INFO 6476 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2021-06-27 15:41:18.632  INFO 6476 --- [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [public/index.html]
+2021-06-27 15:41:18.680  INFO 6476 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2021-06-27 15:41:18.695  INFO 6476 --- [restartedMain] io.undertow                              : starting server: Undertow - 2.1.4.Final
+2021-06-27 15:41:18.698  INFO 6476 --- [restartedMain] org.xnio                                 : XNIO version 3.8.0.Final
+2021-06-27 15:41:18.702  INFO 6476 --- [restartedMain] org.xnio.nio                             : XNIO NIO Implementation Version 3.8.0.Final
+2021-06-27 15:41:18.723  INFO 6476 --- [restartedMain] org.jboss.threads                        : JBoss Threads version 3.1.0.Final
+2021-06-27 15:41:18.754  INFO 6476 --- [restartedMain] o.s.b.w.e.undertow.UndertowWebServer     : Undertow started on port(s) 8080 (http)
+2021-06-27 15:41:18.762  INFO 6476 --- [restartedMain] org.example.Application                  : Started Application in 1.216 seconds (JVM running for 1.918)
+2021-06-27 15:41:50.050  INFO 6476 --- [XNIO-1 task-1] io.undertow.servlet                      : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-06-27 15:41:50.051  INFO 6476 --- [XNIO-1 task-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2021-06-27 15:41:50.054  INFO 6476 --- [XNIO-1 task-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 3 ms
+2021-06-27 15:45:18.738  INFO 10204 --- [restartedMain] org.example.Application                  : Starting Application on zjc with PID 10204 (E:\Javacode\springboot-study\target\classes started by zjc in E:\Javacode\springboot-study)
+2021-06-27 15:45:18.754 DEBUG 10204 --- [restartedMain] org.example.Application                  : Running with Spring Boot v2.3.5.RELEASE, Spring v5.2.10.RELEASE
+2021-06-27 15:45:18.754  INFO 10204 --- [restartedMain] org.example.Application                  : No active profile set, falling back to default profiles: default
+2021-06-27 15:45:18.785  INFO 10204 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-06-27 15:45:18.785  INFO 10204 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-06-27 15:45:19.477  WARN 10204 --- [restartedMain] io.undertow.websockets.jsr               : UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+2021-06-27 15:45:19.493  INFO 10204 --- [restartedMain] io.undertow.servlet                      : Initializing Spring embedded WebApplicationContext
+2021-06-27 15:45:19.493  INFO 10204 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 708 ms
+2021-06-27 15:45:19.618  INFO 10204 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2021-06-27 15:45:19.665  INFO 10204 --- [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [public/index.html]
+2021-06-27 15:45:19.712  INFO 10204 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2021-06-27 15:45:19.727  INFO 10204 --- [restartedMain] io.undertow                              : starting server: Undertow - 2.1.4.Final
+2021-06-27 15:45:19.743  INFO 10204 --- [restartedMain] org.xnio                                 : XNIO version 3.8.0.Final
+2021-06-27 15:45:19.743  INFO 10204 --- [restartedMain] org.xnio.nio                             : XNIO NIO Implementation Version 3.8.0.Final
+2021-06-27 15:45:19.774  INFO 10204 --- [restartedMain] org.jboss.threads                        : JBoss Threads version 3.1.0.Final
+2021-06-27 15:45:19.806  INFO 10204 --- [restartedMain] o.s.b.w.e.undertow.UndertowWebServer     : Undertow started on port(s) 8080 (http)
+2021-06-27 15:45:19.806  INFO 10204 --- [restartedMain] org.example.Application                  : Started Application in 1.315 seconds (JVM running for 2.017)
+2021-06-27 15:45:44.667  INFO 5332 --- [restartedMain] org.example.Application                  : Starting Application on zjc with PID 5332 (E:\Javacode\springboot-study\target\classes started by zjc in E:\Javacode\springboot-study)
+2021-06-27 15:45:44.667 DEBUG 5332 --- [restartedMain] org.example.Application                  : Running with Spring Boot v2.3.5.RELEASE, Spring v5.2.10.RELEASE
+2021-06-27 15:45:44.667  INFO 5332 --- [restartedMain] org.example.Application                  : No active profile set, falling back to default profiles: default
+2021-06-27 15:45:44.698  INFO 5332 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-06-27 15:45:44.698  INFO 5332 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-06-27 15:45:45.365  WARN 5332 --- [restartedMain] io.undertow.websockets.jsr               : UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+2021-06-27 15:45:45.380  INFO 5332 --- [restartedMain] io.undertow.servlet                      : Initializing Spring embedded WebApplicationContext
+2021-06-27 15:45:45.380  INFO 5332 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 682 ms
+2021-06-27 15:45:45.505  INFO 5332 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2021-06-27 15:45:45.536  INFO 5332 --- [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [public/index.html]
+2021-06-27 15:45:45.583  INFO 5332 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2021-06-27 15:45:45.599  INFO 5332 --- [restartedMain] io.undertow                              : starting server: Undertow - 2.1.4.Final
+2021-06-27 15:45:45.614  INFO 5332 --- [restartedMain] org.xnio                                 : XNIO version 3.8.0.Final
+2021-06-27 15:45:45.614  INFO 5332 --- [restartedMain] org.xnio.nio                             : XNIO NIO Implementation Version 3.8.0.Final
+2021-06-27 15:45:45.646  INFO 5332 --- [restartedMain] org.jboss.threads                        : JBoss Threads version 3.1.0.Final
+2021-06-27 15:45:45.677  INFO 5332 --- [restartedMain] o.s.b.w.e.undertow.UndertowWebServer     : Undertow started on port(s) 8080 (http)
+2021-06-27 15:45:45.677  INFO 5332 --- [restartedMain] org.example.Application                  : Started Application in 1.282 seconds (JVM running for 1.984)
+2021-06-27 15:45:47.942  INFO 5332 --- [XNIO-1 task-1] io.undertow.servlet                      : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-06-27 15:45:47.942  INFO 5332 --- [XNIO-1 task-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2021-06-27 15:45:47.945  INFO 5332 --- [XNIO-1 task-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 3 ms
+2021-06-27 15:45:48.198  WARN 5332 --- [XNIO-1 task-1] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.http.converter.HttpMessageNotReadableException: Required request body is missing: public java.lang.String org.example.controller.MethodController.m2(java.lang.String,java.lang.String)]
+2021-06-27 15:46:12.022  WARN 5332 --- [XNIO-1 task-1] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.http.converter.HttpMessageNotReadableException: Required request body is missing: public java.lang.String org.example.controller.MethodController.m2(java.lang.String,java.lang.String)]
+2021-06-27 15:46:26.290  WARN 5332 --- [XNIO-1 task-2] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.http.converter.HttpMessageNotReadableException: Required request body is missing: public java.lang.String org.example.controller.MethodController.m2(java.lang.String,java.lang.String)]
+2021-06-27 15:46:30.943  WARN 5332 --- [XNIO-1 task-2] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.http.converter.HttpMessageNotReadableException: Required request body is missing: public java.lang.String org.example.controller.MethodController.m2(java.lang.String,java.lang.String)]
+2021-06-27 16:01:31.883  INFO 12552 --- [restartedMain] org.example.Application                  : Starting Application on zjc with PID 12552 (E:\Javacode\springboot-study\target\classes started by zjc in E:\Javacode\springboot-study)
+2021-06-27 16:01:31.888 DEBUG 12552 --- [restartedMain] org.example.Application                  : Running with Spring Boot v2.3.5.RELEASE, Spring v5.2.10.RELEASE
+2021-06-27 16:01:31.888  INFO 12552 --- [restartedMain] org.example.Application                  : No active profile set, falling back to default profiles: default
+2021-06-27 16:01:31.935  INFO 12552 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-06-27 16:01:31.936  INFO 12552 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-06-27 16:01:32.822  WARN 12552 --- [restartedMain] io.undertow.websockets.jsr               : UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+2021-06-27 16:01:32.848  INFO 12552 --- [restartedMain] io.undertow.servlet                      : Initializing Spring embedded WebApplicationContext
+2021-06-27 16:01:32.848  INFO 12552 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 912 ms
+2021-06-27 16:01:33.023  INFO 12552 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2021-06-27 16:01:33.086  INFO 12552 --- [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [public/index.html]
+2021-06-27 16:01:33.159  INFO 12552 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2021-06-27 16:01:33.186  INFO 12552 --- [restartedMain] io.undertow                              : starting server: Undertow - 2.1.4.Final
+2021-06-27 16:01:33.191  INFO 12552 --- [restartedMain] org.xnio                                 : XNIO version 3.8.0.Final
+2021-06-27 16:01:33.197  INFO 12552 --- [restartedMain] org.xnio.nio                             : XNIO NIO Implementation Version 3.8.0.Final
+2021-06-27 16:01:33.227  INFO 12552 --- [restartedMain] org.jboss.threads                        : JBoss Threads version 3.1.0.Final
+2021-06-27 16:01:33.274  INFO 12552 --- [restartedMain] o.s.b.w.e.undertow.UndertowWebServer     : Undertow started on port(s) 8080 (http)
+2021-06-27 16:01:33.283  INFO 12552 --- [restartedMain] org.example.Application                  : Started Application in 1.804 seconds (JVM running for 2.902)
+2021-06-27 16:02:21.467  INFO 12552 --- [XNIO-1 task-1] io.undertow.servlet                      : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-06-27 16:02:21.467  INFO 12552 --- [XNIO-1 task-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2021-06-27 16:02:21.479  INFO 12552 --- [XNIO-1 task-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 12 ms
+2021-06-27 16:31:59.018  INFO 5828 --- [restartedMain] org.example.Application                  : Starting Application on zjc with PID 5828 (E:\Javacode\springboot-study\target\classes started by zjc in E:\Javacode\springboot-study)
+2021-06-27 16:31:59.021 DEBUG 5828 --- [restartedMain] org.example.Application                  : Running with Spring Boot v2.3.5.RELEASE, Spring v5.2.10.RELEASE
+2021-06-27 16:31:59.022  INFO 5828 --- [restartedMain] org.example.Application                  : No active profile set, falling back to default profiles: default
+2021-06-27 16:31:59.065  INFO 5828 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-06-27 16:31:59.065  INFO 5828 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-06-27 16:32:00.000  WARN 5828 --- [restartedMain] io.undertow.websockets.jsr               : UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+2021-06-27 16:32:00.033  INFO 5828 --- [restartedMain] io.undertow.servlet                      : Initializing Spring embedded WebApplicationContext
+2021-06-27 16:32:00.034  INFO 5828 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 968 ms
+2021-06-27 16:32:00.343  INFO 5828 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2021-06-27 16:32:00.455  INFO 5828 --- [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [public/index.html]
+2021-06-27 16:32:00.533  INFO 5828 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2021-06-27 16:32:00.568  INFO 5828 --- [restartedMain] io.undertow                              : starting server: Undertow - 2.1.4.Final
+2021-06-27 16:32:00.581  INFO 5828 --- [restartedMain] org.xnio                                 : XNIO version 3.8.0.Final
+2021-06-27 16:32:00.595  INFO 5828 --- [restartedMain] org.xnio.nio                             : XNIO NIO Implementation Version 3.8.0.Final
+2021-06-27 16:32:00.670  INFO 5828 --- [restartedMain] org.jboss.threads                        : JBoss Threads version 3.1.0.Final
+2021-06-27 16:32:00.739  INFO 5828 --- [restartedMain] o.s.b.w.e.undertow.UndertowWebServer     : Undertow started on port(s) 8080 (http)
+2021-06-27 16:32:00.752  INFO 5828 --- [restartedMain] org.example.Application                  : Started Application in 2.083 seconds (JVM running for 3.615)
+2021-06-27 16:32:02.121  INFO 5828 --- [XNIO-1 task-1] io.undertow.servlet                      : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-06-27 16:32:02.122  INFO 5828 --- [XNIO-1 task-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2021-06-27 16:32:02.125  INFO 5828 --- [XNIO-1 task-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 3 ms
+2021-06-27 16:32:02.147  WARN 5828 --- [XNIO-1 task-1] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required String parameter 'name' is not present]
+2021-06-27 16:33:16.184  INFO 20144 --- [restartedMain] org.example.Application                  : Starting Application on zjc with PID 20144 (E:\Javacode\springboot-study\target\classes started by zjc in E:\Javacode\springboot-study)
+2021-06-27 16:33:16.186 DEBUG 20144 --- [restartedMain] org.example.Application                  : Running with Spring Boot v2.3.5.RELEASE, Spring v5.2.10.RELEASE
+2021-06-27 16:33:16.186  INFO 20144 --- [restartedMain] org.example.Application                  : No active profile set, falling back to default profiles: default
+2021-06-27 16:33:16.235  INFO 20144 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-06-27 16:33:16.235  INFO 20144 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-06-27 16:33:17.336  WARN 20144 --- [restartedMain] io.undertow.websockets.jsr               : UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+2021-06-27 16:33:17.420  INFO 20144 --- [restartedMain] io.undertow.servlet                      : Initializing Spring embedded WebApplicationContext
+2021-06-27 16:33:17.420  INFO 20144 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1184 ms
+2021-06-27 16:33:17.815  INFO 20144 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2021-06-27 16:33:17.947  INFO 20144 --- [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [public/index.html]
+2021-06-27 16:33:18.105  INFO 20144 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2021-06-27 16:33:18.152  INFO 20144 --- [restartedMain] io.undertow                              : starting server: Undertow - 2.1.4.Final
+2021-06-27 16:33:18.164  INFO 20144 --- [restartedMain] org.xnio                                 : XNIO version 3.8.0.Final
+2021-06-27 16:33:18.174  INFO 20144 --- [restartedMain] org.xnio.nio                             : XNIO NIO Implementation Version 3.8.0.Final
+2021-06-27 16:33:18.246  INFO 20144 --- [restartedMain] org.jboss.threads                        : JBoss Threads version 3.1.0.Final
+2021-06-27 16:33:18.338  INFO 20144 --- [restartedMain] o.s.b.w.e.undertow.UndertowWebServer     : Undertow started on port(s) 8080 (http)
+2021-06-27 16:33:18.360  INFO 20144 --- [restartedMain] org.example.Application                  : Started Application in 2.54 seconds (JVM running for 3.47)
+2021-06-27 16:33:18.471  INFO 20144 --- [XNIO-1 task-1] io.undertow.servlet                      : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-06-27 16:33:18.477  INFO 20144 --- [XNIO-1 task-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2021-06-27 16:33:18.485  INFO 20144 --- [XNIO-1 task-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 8 ms
+2021-06-27 16:34:18.522  INFO 9352 --- [restartedMain] org.example.Application                  : Starting Application on zjc with PID 9352 (E:\Javacode\springboot-study\target\classes started by zjc in E:\Javacode\springboot-study)
+2021-06-27 16:34:18.526 DEBUG 9352 --- [restartedMain] org.example.Application                  : Running with Spring Boot v2.3.5.RELEASE, Spring v5.2.10.RELEASE
+2021-06-27 16:34:18.527  INFO 9352 --- [restartedMain] org.example.Application                  : No active profile set, falling back to default profiles: default
+2021-06-27 16:34:18.577  INFO 9352 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-06-27 16:34:18.577  INFO 9352 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-06-27 16:34:19.814  WARN 9352 --- [restartedMain] io.undertow.websockets.jsr               : UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+2021-06-27 16:34:19.866  INFO 9352 --- [restartedMain] io.undertow.servlet                      : Initializing Spring embedded WebApplicationContext
+2021-06-27 16:34:19.866  INFO 9352 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1289 ms
+2021-06-27 16:34:20.149  INFO 9352 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2021-06-27 16:34:20.285  INFO 9352 --- [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [public/index.html]
+2021-06-27 16:34:20.519  INFO 9352 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2021-06-27 16:34:20.601  INFO 9352 --- [restartedMain] io.undertow                              : starting server: Undertow - 2.1.4.Final
+2021-06-27 16:34:20.619  INFO 9352 --- [restartedMain] org.xnio                                 : XNIO version 3.8.0.Final
+2021-06-27 16:34:20.638  INFO 9352 --- [restartedMain] org.xnio.nio                             : XNIO NIO Implementation Version 3.8.0.Final
+2021-06-27 16:34:20.749  INFO 9352 --- [restartedMain] org.jboss.threads                        : JBoss Threads version 3.1.0.Final
+2021-06-27 16:34:20.883  INFO 9352 --- [restartedMain] o.s.b.w.e.undertow.UndertowWebServer     : Undertow started on port(s) 8080 (http)
+2021-06-27 16:34:20.904  INFO 9352 --- [restartedMain] org.example.Application                  : Started Application in 2.739 seconds (JVM running for 3.788)
+2021-06-27 16:34:21.105  INFO 9352 --- [XNIO-1 task-1] io.undertow.servlet                      : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-06-27 16:34:21.106  INFO 9352 --- [XNIO-1 task-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2021-06-27 16:34:21.114  INFO 9352 --- [XNIO-1 task-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 8 ms
+2021-06-27 16:34:21.160  WARN 9352 --- [XNIO-1 task-1] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required String parameter 'name' is not present]
+2021-06-27 16:37:16.518  INFO 19584 --- [restartedMain] org.example.Application                  : Starting Application on zjc with PID 19584 (E:\Javacode\springboot-study\target\classes started by zjc in E:\Javacode\springboot-study)
+2021-06-27 16:37:16.522 DEBUG 19584 --- [restartedMain] org.example.Application                  : Running with Spring Boot v2.3.5.RELEASE, Spring v5.2.10.RELEASE
+2021-06-27 16:37:16.523  INFO 19584 --- [restartedMain] org.example.Application                  : No active profile set, falling back to default profiles: default
+2021-06-27 16:37:16.582  INFO 19584 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-06-27 16:37:16.583  INFO 19584 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-06-27 16:37:17.933  WARN 19584 --- [restartedMain] io.undertow.websockets.jsr               : UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+2021-06-27 16:37:18.019  INFO 19584 --- [restartedMain] io.undertow.servlet                      : Initializing Spring embedded WebApplicationContext
+2021-06-27 16:37:18.019  INFO 19584 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1435 ms
+2021-06-27 16:37:18.356  INFO 19584 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2021-06-27 16:37:18.469  INFO 19584 --- [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [public/index.html]
+2021-06-27 16:37:18.551  INFO 19584 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2021-06-27 16:37:18.578  INFO 19584 --- [restartedMain] io.undertow                              : starting server: Undertow - 2.1.4.Final
+2021-06-27 16:37:18.588  INFO 19584 --- [restartedMain] org.xnio                                 : XNIO version 3.8.0.Final
+2021-06-27 16:37:18.593  INFO 19584 --- [restartedMain] org.xnio.nio                             : XNIO NIO Implementation Version 3.8.0.Final
+2021-06-27 16:37:18.668  INFO 19584 --- [restartedMain] org.jboss.threads                        : JBoss Threads version 3.1.0.Final
+2021-06-27 16:37:18.802  INFO 19584 --- [restartedMain] o.s.b.w.e.undertow.UndertowWebServer     : Undertow started on port(s) 8080 (http)
+2021-06-27 16:37:18.841  INFO 19584 --- [restartedMain] org.example.Application                  : Started Application in 2.685 seconds (JVM running for 3.619)
+2021-06-27 16:37:18.960  INFO 19584 --- [XNIO-1 task-1] io.undertow.servlet                      : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-06-27 16:37:18.960  INFO 19584 --- [XNIO-1 task-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2021-06-27 16:37:18.979  INFO 19584 --- [XNIO-1 task-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 19 ms
+2021-06-27 16:43:50.297  INFO 10556 --- [restartedMain] org.example.Application                  : Starting Application on zjc with PID 10556 (E:\Javacode\springboot-study\target\classes started by zjc in E:\Javacode\springboot-study)
+2021-06-27 16:43:50.300 DEBUG 10556 --- [restartedMain] org.example.Application                  : Running with Spring Boot v2.3.5.RELEASE, Spring v5.2.10.RELEASE
+2021-06-27 16:43:50.301  INFO 10556 --- [restartedMain] org.example.Application                  : No active profile set, falling back to default profiles: default
+2021-06-27 16:43:50.354  INFO 10556 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-06-27 16:43:50.355  INFO 10556 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-06-27 16:43:51.510  WARN 10556 --- [restartedMain] io.undertow.websockets.jsr               : UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+2021-06-27 16:43:51.535  INFO 10556 --- [restartedMain] io.undertow.servlet                      : Initializing Spring embedded WebApplicationContext
+2021-06-27 16:43:51.535  INFO 10556 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1180 ms
+2021-06-27 16:43:51.699  INFO 10556 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2021-06-27 16:43:51.754  INFO 10556 --- [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [public/index.html]
+2021-06-27 16:43:51.822  INFO 10556 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2021-06-27 16:43:51.842  INFO 10556 --- [restartedMain] io.undertow                              : starting server: Undertow - 2.1.4.Final
+2021-06-27 16:43:51.848  INFO 10556 --- [restartedMain] org.xnio                                 : XNIO version 3.8.0.Final
+2021-06-27 16:43:51.852  INFO 10556 --- [restartedMain] org.xnio.nio                             : XNIO NIO Implementation Version 3.8.0.Final
+2021-06-27 16:43:51.881  INFO 10556 --- [restartedMain] org.jboss.threads                        : JBoss Threads version 3.1.0.Final
+2021-06-27 16:43:51.923  INFO 10556 --- [restartedMain] o.s.b.w.e.undertow.UndertowWebServer     : Undertow started on port(s) 8080 (http)
+2021-06-27 16:43:51.934  INFO 10556 --- [restartedMain] org.example.Application                  : Started Application in 1.976 seconds (JVM running for 4.058)
+2021-06-27 16:43:58.158  INFO 10556 --- [XNIO-1 task-1] io.undertow.servlet                      : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-06-27 16:43:58.159  INFO 10556 --- [XNIO-1 task-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2021-06-27 16:43:58.169  INFO 10556 --- [XNIO-1 task-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 10 ms
+2021-06-27 16:43:58.253  WARN 10556 --- [XNIO-1 task-1] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required String parameter 'name' is not present]
+2021-06-27 16:46:52.393  INFO 11428 --- [restartedMain] org.example.Application                  : Starting Application on zjc with PID 11428 (E:\Javacode\springboot-study\target\classes started by zjc in E:\Javacode\springboot-study)
+2021-06-27 16:46:52.396 DEBUG 11428 --- [restartedMain] org.example.Application                  : Running with Spring Boot v2.3.5.RELEASE, Spring v5.2.10.RELEASE
+2021-06-27 16:46:52.396  INFO 11428 --- [restartedMain] org.example.Application                  : No active profile set, falling back to default profiles: default
+2021-06-27 16:46:52.437  INFO 11428 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-06-27 16:46:52.437  INFO 11428 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-06-27 16:46:53.993  WARN 11428 --- [restartedMain] io.undertow.websockets.jsr               : UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+2021-06-27 16:46:54.017  INFO 11428 --- [restartedMain] io.undertow.servlet                      : Initializing Spring embedded WebApplicationContext
+2021-06-27 16:46:54.017  INFO 11428 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1579 ms
+2021-06-27 16:46:54.183  INFO 11428 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2021-06-27 16:46:54.242  INFO 11428 --- [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [public/index.html]
+2021-06-27 16:46:54.314  INFO 11428 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2021-06-27 16:46:54.334  INFO 11428 --- [restartedMain] io.undertow                              : starting server: Undertow - 2.1.4.Final
+2021-06-27 16:46:54.341  INFO 11428 --- [restartedMain] org.xnio                                 : XNIO version 3.8.0.Final
+2021-06-27 16:46:54.346  INFO 11428 --- [restartedMain] org.xnio.nio                             : XNIO NIO Implementation Version 3.8.0.Final
+2021-06-27 16:46:54.382  INFO 11428 --- [restartedMain] org.jboss.threads                        : JBoss Threads version 3.1.0.Final
+2021-06-27 16:46:54.426  INFO 11428 --- [restartedMain] o.s.b.w.e.undertow.UndertowWebServer     : Undertow started on port(s) 8080 (http)
+2021-06-27 16:46:54.435  INFO 11428 --- [restartedMain] org.example.Application                  : Started Application in 2.412 seconds (JVM running for 3.524)
+2021-06-27 16:46:59.783  INFO 11428 --- [XNIO-1 task-1] io.undertow.servlet                      : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-06-27 16:46:59.784  INFO 11428 --- [XNIO-1 task-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2021-06-27 16:46:59.795  INFO 11428 --- [XNIO-1 task-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 11 ms
+2021-06-27 16:47:46.636  INFO 10052 --- [restartedMain] org.example.Application                  : Starting Application on zjc with PID 10052 (E:\Javacode\springboot-study\target\classes started by zjc in E:\Javacode\springboot-study)
+2021-06-27 16:47:46.638 DEBUG 10052 --- [restartedMain] org.example.Application                  : Running with Spring Boot v2.3.5.RELEASE, Spring v5.2.10.RELEASE
+2021-06-27 16:47:46.639  INFO 10052 --- [restartedMain] org.example.Application                  : No active profile set, falling back to default profiles: default
+2021-06-27 16:47:46.681  INFO 10052 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-06-27 16:47:46.682  INFO 10052 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-06-27 16:47:47.495  WARN 10052 --- [restartedMain] io.undertow.websockets.jsr               : UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+2021-06-27 16:47:47.521  INFO 10052 --- [restartedMain] io.undertow.servlet                      : Initializing Spring embedded WebApplicationContext
+2021-06-27 16:47:47.521  INFO 10052 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 839 ms
+2021-06-27 16:47:47.693  INFO 10052 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2021-06-27 16:47:47.754  INFO 10052 --- [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [public/index.html]
+2021-06-27 16:47:47.831  INFO 10052 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2021-06-27 16:47:47.859  INFO 10052 --- [restartedMain] io.undertow                              : starting server: Undertow - 2.1.4.Final
+2021-06-27 16:47:47.866  INFO 10052 --- [restartedMain] org.xnio                                 : XNIO version 3.8.0.Final
+2021-06-27 16:47:47.869  INFO 10052 --- [restartedMain] org.xnio.nio                             : XNIO NIO Implementation Version 3.8.0.Final
+2021-06-27 16:47:47.909  INFO 10052 --- [restartedMain] org.jboss.threads                        : JBoss Threads version 3.1.0.Final
+2021-06-27 16:47:47.986  INFO 10052 --- [restartedMain] o.s.b.w.e.undertow.UndertowWebServer     : Undertow started on port(s) 8080 (http)
+2021-06-27 16:47:48.001  INFO 10052 --- [restartedMain] org.example.Application                  : Started Application in 1.714 seconds (JVM running for 2.827)
+2021-06-27 16:48:08.064  INFO 10052 --- [XNIO-1 task-1] io.undertow.servlet                      : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-06-27 16:48:08.064  INFO 10052 --- [XNIO-1 task-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2021-06-27 16:48:08.069  INFO 10052 --- [XNIO-1 task-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 5 ms
+2021-06-27 16:55:59.175  INFO 20640 --- [restartedMain] org.example.Application                  : Starting Application on zjc with PID 20640 (E:\Javacode\springboot-study\target\classes started by zjc in E:\Javacode\springboot-study)
+2021-06-27 16:55:59.178 DEBUG 20640 --- [restartedMain] org.example.Application                  : Running with Spring Boot v2.3.5.RELEASE, Spring v5.2.10.RELEASE
+2021-06-27 16:55:59.178  INFO 20640 --- [restartedMain] org.example.Application                  : No active profile set, falling back to default profiles: default
+2021-06-27 16:55:59.219  INFO 20640 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-06-27 16:55:59.219  INFO 20640 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-06-27 16:56:00.188  WARN 20640 --- [restartedMain] io.undertow.websockets.jsr               : UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+2021-06-27 16:56:00.216  INFO 20640 --- [restartedMain] io.undertow.servlet                      : Initializing Spring embedded WebApplicationContext
+2021-06-27 16:56:00.216  INFO 20640 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 996 ms
+2021-06-27 16:56:00.393  INFO 20640 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2021-06-27 16:56:00.449  INFO 20640 --- [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [public/index.html]
+2021-06-27 16:56:00.518  INFO 20640 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2021-06-27 16:56:00.537  INFO 20640 --- [restartedMain] io.undertow                              : starting server: Undertow - 2.1.4.Final
+2021-06-27 16:56:00.543  INFO 20640 --- [restartedMain] org.xnio                                 : XNIO version 3.8.0.Final
+2021-06-27 16:56:00.550  INFO 20640 --- [restartedMain] org.xnio.nio                             : XNIO NIO Implementation Version 3.8.0.Final
+2021-06-27 16:56:00.568  INFO 20640 --- [restartedMain] org.jboss.threads                        : JBoss Threads version 3.1.0.Final
+2021-06-27 16:56:00.625  INFO 20640 --- [restartedMain] o.s.b.w.e.undertow.UndertowWebServer     : Undertow started on port(s) 8080 (http)
+2021-06-27 16:56:00.632  INFO 20640 --- [restartedMain] org.example.Application                  : Started Application in 1.875 seconds (JVM running for 2.966)
+2021-06-27 16:56:09.591  INFO 20640 --- [XNIO-1 task-1] io.undertow.servlet                      : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-06-27 16:56:09.592  INFO 20640 --- [XNIO-1 task-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2021-06-27 16:56:09.606  INFO 20640 --- [XNIO-1 task-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 14 ms
+2021-06-27 16:57:10.551  INFO 15436 --- [restartedMain] org.example.Application                  : Starting Application on zjc with PID 15436 (E:\Javacode\springboot-study\target\classes started by zjc in E:\Javacode\springboot-study)
+2021-06-27 16:57:10.555 DEBUG 15436 --- [restartedMain] org.example.Application                  : Running with Spring Boot v2.3.5.RELEASE, Spring v5.2.10.RELEASE
+2021-06-27 16:57:10.555  INFO 15436 --- [restartedMain] org.example.Application                  : No active profile set, falling back to default profiles: default
+2021-06-27 16:57:10.622  INFO 15436 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-06-27 16:57:10.623  INFO 15436 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-06-27 16:57:11.587  WARN 15436 --- [restartedMain] io.undertow.websockets.jsr               : UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+2021-06-27 16:57:11.612  INFO 15436 --- [restartedMain] io.undertow.servlet                      : Initializing Spring embedded WebApplicationContext
+2021-06-27 16:57:11.612  INFO 15436 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 988 ms
+2021-06-27 16:57:11.804  INFO 15436 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2021-06-27 16:57:11.867  INFO 15436 --- [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [public/index.html]
+2021-06-27 16:57:11.945  INFO 15436 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2021-06-27 16:57:11.969  INFO 15436 --- [restartedMain] io.undertow                              : starting server: Undertow - 2.1.4.Final
+2021-06-27 16:57:11.975  INFO 15436 --- [restartedMain] org.xnio                                 : XNIO version 3.8.0.Final
+2021-06-27 16:57:11.981  INFO 15436 --- [restartedMain] org.xnio.nio                             : XNIO NIO Implementation Version 3.8.0.Final
+2021-06-27 16:57:12.013  INFO 15436 --- [restartedMain] org.jboss.threads                        : JBoss Threads version 3.1.0.Final
+2021-06-27 16:57:12.060  INFO 15436 --- [restartedMain] o.s.b.w.e.undertow.UndertowWebServer     : Undertow started on port(s) 8080 (http)
+2021-06-27 16:57:12.070  INFO 15436 --- [restartedMain] org.example.Application                  : Started Application in 1.944 seconds (JVM running for 2.9)
+2021-06-27 16:57:12.465  INFO 15436 --- [XNIO-1 task-1] io.undertow.servlet                      : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-06-27 16:57:12.466  INFO 15436 --- [XNIO-1 task-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2021-06-27 16:57:12.484  INFO 15436 --- [XNIO-1 task-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 17 ms
+2021-06-27 16:58:51.417  WARN 15436 --- [XNIO-1 task-1] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.http.converter.HttpMessageNotReadableException: Required request body is missing: public java.lang.String org.example.controller.LoginController.login(org.example.Model.User,javax.servlet.http.HttpServletRequest)]
+2021-06-27 16:58:53.493  WARN 15436 --- [XNIO-1 task-1] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.http.converter.HttpMessageNotReadableException: Required request body is missing: public java.lang.String org.example.controller.LoginController.login(org.example.Model.User,javax.servlet.http.HttpServletRequest)]
+2021-06-27 16:59:47.120  INFO 2932 --- [restartedMain] org.example.Application                  : Starting Application on zjc with PID 2932 (E:\Javacode\springboot-study\target\classes started by zjc in E:\Javacode\springboot-study)
+2021-06-27 16:59:47.123 DEBUG 2932 --- [restartedMain] org.example.Application                  : Running with Spring Boot v2.3.5.RELEASE, Spring v5.2.10.RELEASE
+2021-06-27 16:59:47.124  INFO 2932 --- [restartedMain] org.example.Application                  : No active profile set, falling back to default profiles: default
+2021-06-27 16:59:47.174  INFO 2932 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-06-27 16:59:47.174  INFO 2932 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-06-27 16:59:48.926  WARN 2932 --- [restartedMain] io.undertow.websockets.jsr               : UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+2021-06-27 16:59:49.022  INFO 2932 --- [restartedMain] io.undertow.servlet                      : Initializing Spring embedded WebApplicationContext
+2021-06-27 16:59:49.023  INFO 2932 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1849 ms
+2021-06-27 16:59:49.453  INFO 2932 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2021-06-27 16:59:49.516  INFO 2932 --- [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [public/index.html]
+2021-06-27 16:59:49.591  INFO 2932 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2021-06-27 16:59:49.614  INFO 2932 --- [restartedMain] io.undertow                              : starting server: Undertow - 2.1.4.Final
+2021-06-27 16:59:49.619  INFO 2932 --- [restartedMain] org.xnio                                 : XNIO version 3.8.0.Final
+2021-06-27 16:59:49.624  INFO 2932 --- [restartedMain] org.xnio.nio                             : XNIO NIO Implementation Version 3.8.0.Final
+2021-06-27 16:59:49.655  INFO 2932 --- [restartedMain] org.jboss.threads                        : JBoss Threads version 3.1.0.Final
+2021-06-27 16:59:49.704  INFO 2932 --- [restartedMain] o.s.b.w.e.undertow.UndertowWebServer     : Undertow started on port(s) 8080 (http)
+2021-06-27 16:59:49.716  INFO 2932 --- [restartedMain] org.example.Application                  : Started Application in 2.949 seconds (JVM running for 3.952)
+2021-06-27 17:00:07.961  INFO 2932 --- [XNIO-1 task-1] io.undertow.servlet                      : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-06-27 17:00:07.961  INFO 2932 --- [XNIO-1 task-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2021-06-27 17:00:07.966  INFO 2932 --- [XNIO-1 task-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 5 ms
+2021-06-27 17:00:08.024  WARN 2932 --- [XNIO-1 task-1] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.http.converter.HttpMessageNotReadableException: Required request body is missing: public java.lang.String org.example.controller.LoginController.login(org.example.Model.User,javax.servlet.http.HttpServletRequest)]
+2021-06-27 17:00:31.080  WARN 2932 --- [XNIO-1 task-1] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.http.converter.HttpMessageNotReadableException: Required request body is missing: public java.lang.String org.example.controller.LoginController.login(org.example.Model.User,javax.servlet.http.HttpServletRequest)]
+2021-06-27 17:02:13.888  INFO 6620 --- [restartedMain] org.example.Application                  : Starting Application on zjc with PID 6620 (E:\Javacode\springboot-study\target\classes started by zjc in E:\Javacode\springboot-study)
+2021-06-27 17:02:13.890 DEBUG 6620 --- [restartedMain] org.example.Application                  : Running with Spring Boot v2.3.5.RELEASE, Spring v5.2.10.RELEASE
+2021-06-27 17:02:13.890  INFO 6620 --- [restartedMain] org.example.Application                  : No active profile set, falling back to default profiles: default
+2021-06-27 17:02:13.939  INFO 6620 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-06-27 17:02:13.939  INFO 6620 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-06-27 17:02:14.781  WARN 6620 --- [restartedMain] io.undertow.websockets.jsr               : UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+2021-06-27 17:02:14.805  INFO 6620 --- [restartedMain] io.undertow.servlet                      : Initializing Spring embedded WebApplicationContext
+2021-06-27 17:02:14.805  INFO 6620 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 866 ms
+2021-06-27 17:02:15.005  INFO 6620 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2021-06-27 17:02:15.074  INFO 6620 --- [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [public/index.html]
+2021-06-27 17:02:15.142  INFO 6620 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2021-06-27 17:02:15.167  INFO 6620 --- [restartedMain] io.undertow                              : starting server: Undertow - 2.1.4.Final
+2021-06-27 17:02:15.173  INFO 6620 --- [restartedMain] org.xnio                                 : XNIO version 3.8.0.Final
+2021-06-27 17:02:15.178  INFO 6620 --- [restartedMain] org.xnio.nio                             : XNIO NIO Implementation Version 3.8.0.Final
+2021-06-27 17:02:15.212  INFO 6620 --- [restartedMain] org.jboss.threads                        : JBoss Threads version 3.1.0.Final
+2021-06-27 17:02:15.257  INFO 6620 --- [restartedMain] o.s.b.w.e.undertow.UndertowWebServer     : Undertow started on port(s) 8080 (http)
+2021-06-27 17:02:15.265  INFO 6620 --- [restartedMain] org.example.Application                  : Started Application in 1.782 seconds (JVM running for 2.742)
+2021-06-27 17:02:25.654  INFO 6620 --- [XNIO-1 task-1] io.undertow.servlet                      : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-06-27 17:02:25.655  INFO 6620 --- [XNIO-1 task-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2021-06-27 17:02:25.666  INFO 6620 --- [XNIO-1 task-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 11 ms
+2021-06-27 17:02:31.164  WARN 6620 --- [XNIO-1 task-1] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.http.converter.HttpMessageNotReadableException: Required request body is missing: public java.lang.String org.example.controller.LoginController.login(org.example.Model.User,javax.servlet.http.HttpServletRequest)]
+2021-06-27 17:03:16.034  INFO 12624 --- [restartedMain] org.example.Application                  : Starting Application on zjc with PID 12624 (E:\Javacode\springboot-study\target\classes started by zjc in E:\Javacode\springboot-study)
+2021-06-27 17:03:16.038 DEBUG 12624 --- [restartedMain] org.example.Application                  : Running with Spring Boot v2.3.5.RELEASE, Spring v5.2.10.RELEASE
+2021-06-27 17:03:16.039  INFO 12624 --- [restartedMain] org.example.Application                  : No active profile set, falling back to default profiles: default
+2021-06-27 17:03:16.085  INFO 12624 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-06-27 17:03:16.086  INFO 12624 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-06-27 17:03:17.272  WARN 12624 --- [restartedMain] io.undertow.websockets.jsr               : UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+2021-06-27 17:03:17.315  INFO 12624 --- [restartedMain] io.undertow.servlet                      : Initializing Spring embedded WebApplicationContext
+2021-06-27 17:03:17.315  INFO 12624 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1228 ms
+2021-06-27 17:03:17.537  INFO 12624 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2021-06-27 17:03:17.606  INFO 12624 --- [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [public/index.html]
+2021-06-27 17:03:17.774  INFO 12624 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2021-06-27 17:03:17.825  INFO 12624 --- [restartedMain] io.undertow                              : starting server: Undertow - 2.1.4.Final
+2021-06-27 17:03:17.838  INFO 12624 --- [restartedMain] org.xnio                                 : XNIO version 3.8.0.Final
+2021-06-27 17:03:17.852  INFO 12624 --- [restartedMain] org.xnio.nio                             : XNIO NIO Implementation Version 3.8.0.Final
+2021-06-27 17:03:17.930  INFO 12624 --- [restartedMain] org.jboss.threads                        : JBoss Threads version 3.1.0.Final
+2021-06-27 17:03:18.059  INFO 12624 --- [restartedMain] o.s.b.w.e.undertow.UndertowWebServer     : Undertow started on port(s) 8080 (http)
+2021-06-27 17:03:18.094  INFO 12624 --- [restartedMain] org.example.Application                  : Started Application in 2.413 seconds (JVM running for 3.373)
+2021-06-27 17:03:18.273  INFO 12624 --- [XNIO-1 task-1] io.undertow.servlet                      : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-06-27 17:03:18.274  INFO 12624 --- [XNIO-1 task-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2021-06-27 17:03:18.290  INFO 12624 --- [XNIO-1 task-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 16 ms
+2021-06-27 17:03:18.401  WARN 12624 --- [XNIO-1 task-1] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.http.converter.HttpMessageNotReadableException: Required request body is missing: public java.lang.String org.example.controller.LoginController.login(org.example.Model.User,javax.servlet.http.HttpServletRequest)]
+2021-06-27 17:03:19.340  WARN 12624 --- [XNIO-1 task-1] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.http.converter.HttpMessageNotReadableException: Required request body is missing: public java.lang.String org.example.controller.LoginController.login(org.example.Model.User,javax.servlet.http.HttpServletRequest)]
+2021-06-27 17:03:48.795  WARN 12624 --- [XNIO-1 task-1] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.http.converter.HttpMessageNotReadableException: Required request body is missing: public java.lang.String org.example.controller.LoginController.login(org.example.Model.User,javax.servlet.http.HttpServletRequest)]
+2021-06-27 17:05:12.825  INFO 2064 --- [restartedMain] org.example.Application                  : Starting Application on zjc with PID 2064 (E:\Javacode\springboot-study\target\classes started by zjc in E:\Javacode\springboot-study)
+2021-06-27 17:05:12.828 DEBUG 2064 --- [restartedMain] org.example.Application                  : Running with Spring Boot v2.3.5.RELEASE, Spring v5.2.10.RELEASE
+2021-06-27 17:05:12.828  INFO 2064 --- [restartedMain] org.example.Application                  : No active profile set, falling back to default profiles: default
+2021-06-27 17:05:12.870  INFO 2064 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-06-27 17:05:12.870  INFO 2064 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-06-27 17:05:13.754  WARN 2064 --- [restartedMain] io.undertow.websockets.jsr               : UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+2021-06-27 17:05:13.785  INFO 2064 --- [restartedMain] io.undertow.servlet                      : Initializing Spring embedded WebApplicationContext
+2021-06-27 17:05:13.785  INFO 2064 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 914 ms
+2021-06-27 17:05:13.963  INFO 2064 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2021-06-27 17:05:14.026  INFO 2064 --- [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [public/index.html]
+2021-06-27 17:05:14.123  INFO 2064 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2021-06-27 17:05:14.147  INFO 2064 --- [restartedMain] io.undertow                              : starting server: Undertow - 2.1.4.Final
+2021-06-27 17:05:14.154  INFO 2064 --- [restartedMain] org.xnio                                 : XNIO version 3.8.0.Final
+2021-06-27 17:05:14.162  INFO 2064 --- [restartedMain] org.xnio.nio                             : XNIO NIO Implementation Version 3.8.0.Final
+2021-06-27 17:05:14.211  INFO 2064 --- [restartedMain] org.jboss.threads                        : JBoss Threads version 3.1.0.Final
+2021-06-27 17:05:14.269  INFO 2064 --- [restartedMain] o.s.b.w.e.undertow.UndertowWebServer     : Undertow started on port(s) 8080 (http)
+2021-06-27 17:05:14.283  INFO 2064 --- [restartedMain] org.example.Application                  : Started Application in 1.839 seconds (JVM running for 2.88)
+2021-06-27 17:05:15.160  INFO 2064 --- [XNIO-1 task-1] io.undertow.servlet                      : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-06-27 17:05:15.160  INFO 2064 --- [XNIO-1 task-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2021-06-27 17:05:15.171  INFO 2064 --- [XNIO-1 task-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 11 ms
+2021-06-27 17:09:02.828 ERROR 2064 --- [XNIO-1 task-1] io.undertow.request                      : UT005023: Exception handling request to /login/test
+
+org.springframework.web.util.NestedServletException: Request processing failed; nested exception is java.lang.NullPointerException
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1014) ~[spring-webmvc-5.2.10.RELEASE.jar:5.2.10.RELEASE]
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898) ~[spring-webmvc-5.2.10.RELEASE.jar:5.2.10.RELEASE]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:497) ~[jakarta.servlet-api-4.0.4.jar:4.0.4]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883) ~[spring-webmvc-5.2.10.RELEASE.jar:5.2.10.RELEASE]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:584) ~[jakarta.servlet-api-4.0.4.jar:4.0.4]
+	at io.undertow.servlet.handlers.ServletHandler.handleRequest(ServletHandler.java:74) ~[undertow-servlet-2.1.4.Final.jar:2.1.4.Final]
+	at io.undertow.servlet.handlers.FilterHandler$FilterChainImpl.doFilter(FilterHandler.java:129) ~[undertow-servlet-2.1.4.Final.jar:2.1.4.Final]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100) ~[spring-web-5.2.10.RELEASE.jar:5.2.10.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119) ~[spring-web-5.2.10.RELEASE.jar:5.2.10.RELEASE]
+	at io.undertow.servlet.core.ManagedFilter.doFilter(ManagedFilter.java:61) ~[undertow-servlet-2.1.4.Final.jar:2.1.4.Final]
+	at io.undertow.servlet.handlers.FilterHandler$FilterChainImpl.doFilter(FilterHandler.java:131) ~[undertow-servlet-2.1.4.Final.jar:2.1.4.Final]
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93) ~[spring-web-5.2.10.RELEASE.jar:5.2.10.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119) ~[spring-web-5.2.10.RELEASE.jar:5.2.10.RELEASE]
+	at io.undertow.servlet.core.ManagedFilter.doFilter(ManagedFilter.java:61) ~[undertow-servlet-2.1.4.Final.jar:2.1.4.Final]
+	at io.undertow.servlet.handlers.FilterHandler$FilterChainImpl.doFilter(FilterHandler.java:131) ~[undertow-servlet-2.1.4.Final.jar:2.1.4.Final]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201) ~[spring-web-5.2.10.RELEASE.jar:5.2.10.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119) ~[spring-web-5.2.10.RELEASE.jar:5.2.10.RELEASE]
+	at io.undertow.servlet.core.ManagedFilter.doFilter(ManagedFilter.java:61) ~[undertow-servlet-2.1.4.Final.jar:2.1.4.Final]
+	at io.undertow.servlet.handlers.FilterHandler$FilterChainImpl.doFilter(FilterHandler.java:131) ~[undertow-servlet-2.1.4.Final.jar:2.1.4.Final]
+	at io.undertow.servlet.handlers.FilterHandler.handleRequest(FilterHandler.java:84) ~[undertow-servlet-2.1.4.Final.jar:2.1.4.Final]
+	at io.undertow.servlet.handlers.security.ServletSecurityRoleHandler.handleRequest(ServletSecurityRoleHandler.java:62) ~[undertow-servlet-2.1.4.Final.jar:2.1.4.Final]
+	at io.undertow.servlet.handlers.ServletChain$1.handleRequest(ServletChain.java:68) ~[undertow-servlet-2.1.4.Final.jar:2.1.4.Final]
+	at io.undertow.servlet.handlers.ServletDispatchingHandler.handleRequest(ServletDispatchingHandler.java:36) ~[undertow-servlet-2.1.4.Final.jar:2.1.4.Final]
+	at io.undertow.servlet.handlers.RedirectDirHandler.handleRequest(RedirectDirHandler.java:68) ~[undertow-servlet-2.1.4.Final.jar:2.1.4.Final]
+	at io.undertow.servlet.handlers.security.SSLInformationAssociationHandler.handleRequest(SSLInformationAssociationHandler.java:132) ~[undertow-servlet-2.1.4.Final.jar:2.1.4.Final]
+	at io.undertow.servlet.handlers.security.ServletAuthenticationCallHandler.handleRequest(ServletAuthenticationCallHandler.java:57) ~[undertow-servlet-2.1.4.Final.jar:2.1.4.Final]
+	at io.undertow.server.handlers.PredicateHandler.handleRequest(PredicateHandler.java:43) ~[undertow-core-2.1.4.Final.jar:2.1.4.Final]
+	at io.undertow.security.handlers.AbstractConfidentialityHandler.handleRequest(AbstractConfidentialityHandler.java:46) ~[undertow-core-2.1.4.Final.jar:2.1.4.Final]
+	at io.undertow.servlet.handlers.security.ServletConfidentialityConstraintHandler.handleRequest(ServletConfidentialityConstraintHandler.java:64) ~[undertow-servlet-2.1.4.Final.jar:2.1.4.Final]
+	at io.undertow.security.handlers.AuthenticationMechanismsHandler.handleRequest(AuthenticationMechanismsHandler.java:60) ~[undertow-core-2.1.4.Final.jar:2.1.4.Final]
+	at io.undertow.servlet.handlers.security.CachedAuthenticatedSessionHandler.handleRequest(CachedAuthenticatedSessionHandler.java:77) ~[undertow-servlet-2.1.4.Final.jar:2.1.4.Final]
+	at io.undertow.security.handlers.AbstractSecurityContextAssociationHandler.handleRequest(AbstractSecurityContextAssociationHandler.java:43) ~[undertow-core-2.1.4.Final.jar:2.1.4.Final]
+	at io.undertow.server.handlers.PredicateHandler.handleRequest(PredicateHandler.java:43) ~[undertow-core-2.1.4.Final.jar:2.1.4.Final]
+	at io.undertow.server.handlers.PredicateHandler.handleRequest(PredicateHandler.java:43) ~[undertow-core-2.1.4.Final.jar:2.1.4.Final]
+	at io.undertow.servlet.handlers.SessionRestoringHandler.handleRequest(SessionRestoringHandler.java:119) ~[undertow-servlet-2.1.4.Final.jar:2.1.4.Final]
+	at io.undertow.servlet.handlers.ServletInitialHandler.handleFirstRequest(ServletInitialHandler.java:269) [undertow-servlet-2.1.4.Final.jar:2.1.4.Final]
+	at io.undertow.servlet.handlers.ServletInitialHandler.access$100(ServletInitialHandler.java:78) [undertow-servlet-2.1.4.Final.jar:2.1.4.Final]
+	at io.undertow.servlet.handlers.ServletInitialHandler$2.call(ServletInitialHandler.java:133) [undertow-servlet-2.1.4.Final.jar:2.1.4.Final]
+	at io.undertow.servlet.handlers.ServletInitialHandler$2.call(ServletInitialHandler.java:130) [undertow-servlet-2.1.4.Final.jar:2.1.4.Final]
+	at io.undertow.servlet.core.ServletRequestContextThreadSetupAction$1.call(ServletRequestContextThreadSetupAction.java:48) [undertow-servlet-2.1.4.Final.jar:2.1.4.Final]
+	at io.undertow.servlet.core.ContextClassLoaderSetupAction$1.call(ContextClassLoaderSetupAction.java:43) [undertow-servlet-2.1.4.Final.jar:2.1.4.Final]
+	at io.undertow.servlet.handlers.ServletInitialHandler.dispatchRequest(ServletInitialHandler.java:249) [undertow-servlet-2.1.4.Final.jar:2.1.4.Final]
+	at io.undertow.servlet.handlers.ServletInitialHandler.access$000(ServletInitialHandler.java:78) [undertow-servlet-2.1.4.Final.jar:2.1.4.Final]
+	at io.undertow.servlet.handlers.ServletInitialHandler$1.handleRequest(ServletInitialHandler.java:99) [undertow-servlet-2.1.4.Final.jar:2.1.4.Final]
+	at io.undertow.server.Connectors.executeRootHandler(Connectors.java:370) [undertow-core-2.1.4.Final.jar:2.1.4.Final]
+	at io.undertow.server.HttpServerExchange$1.run(HttpServerExchange.java:836) [undertow-core-2.1.4.Final.jar:2.1.4.Final]
+	at org.jboss.threads.ContextClassLoaderSavingRunnable.run(ContextClassLoaderSavingRunnable.java:35) [jboss-threads-3.1.0.Final.jar:3.1.0.Final]
+	at org.jboss.threads.EnhancedQueueExecutor.safeRun(EnhancedQueueExecutor.java:2019) [jboss-threads-3.1.0.Final.jar:3.1.0.Final]
+	at org.jboss.threads.EnhancedQueueExecutor$ThreadBody.doRunTask(EnhancedQueueExecutor.java:1558) [jboss-threads-3.1.0.Final.jar:3.1.0.Final]
+	at org.jboss.threads.EnhancedQueueExecutor$ThreadBody.run(EnhancedQueueExecutor.java:1449) [jboss-threads-3.1.0.Final.jar:3.1.0.Final]
+	at java.lang.Thread.run(Thread.java:748) [na:1.8.0_221]
+Caused by: java.lang.NullPointerException: null
+	at org.example.controller.LoginController.login(LoginController.java:26) ~[classes/:na]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.8.0_221]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[na:1.8.0_221]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:1.8.0_221]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[na:1.8.0_221]
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:190) ~[spring-web-5.2.10.RELEASE.jar:5.2.10.RELEASE]
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:138) ~[spring-web-5.2.10.RELEASE.jar:5.2.10.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:105) ~[spring-webmvc-5.2.10.RELEASE.jar:5.2.10.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:878) ~[spring-webmvc-5.2.10.RELEASE.jar:5.2.10.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:792) ~[spring-webmvc-5.2.10.RELEASE.jar:5.2.10.RELEASE]
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87) ~[spring-webmvc-5.2.10.RELEASE.jar:5.2.10.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1040) ~[spring-webmvc-5.2.10.RELEASE.jar:5.2.10.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:943) ~[spring-webmvc-5.2.10.RELEASE.jar:5.2.10.RELEASE]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006) ~[spring-webmvc-5.2.10.RELEASE.jar:5.2.10.RELEASE]
+	... 50 common frames omitted
+
+2021-06-27 17:40:08.594  INFO 16336 --- [restartedMain] org.example.Application                  : Starting Application on zjc with PID 16336 (E:\Javacode\springboot-study\target\classes started by zjc in E:\Javacode\springboot-study)
+2021-06-27 17:40:08.596 DEBUG 16336 --- [restartedMain] org.example.Application                  : Running with Spring Boot v2.3.5.RELEASE, Spring v5.2.10.RELEASE
+2021-06-27 17:40:08.596  INFO 16336 --- [restartedMain] org.example.Application                  : No active profile set, falling back to default profiles: default
+2021-06-27 17:40:08.632  INFO 16336 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-06-27 17:40:08.633  INFO 16336 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-06-27 17:40:09.277  WARN 16336 --- [restartedMain] io.undertow.websockets.jsr               : UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+2021-06-27 17:40:09.294  INFO 16336 --- [restartedMain] io.undertow.servlet                      : Initializing Spring embedded WebApplicationContext
+2021-06-27 17:40:09.294  INFO 16336 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 661 ms
+2021-06-27 17:40:09.408  INFO 16336 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2021-06-27 17:40:09.449  INFO 16336 --- [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [public/index.html]
+2021-06-27 17:40:09.496  INFO 16336 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2021-06-27 17:40:09.511  INFO 16336 --- [restartedMain] io.undertow                              : starting server: Undertow - 2.1.4.Final
+2021-06-27 17:40:09.515  INFO 16336 --- [restartedMain] org.xnio                                 : XNIO version 3.8.0.Final
+2021-06-27 17:40:09.518  INFO 16336 --- [restartedMain] org.xnio.nio                             : XNIO NIO Implementation Version 3.8.0.Final
+2021-06-27 17:40:09.541  INFO 16336 --- [restartedMain] org.jboss.threads                        : JBoss Threads version 3.1.0.Final
+2021-06-27 17:40:09.571  INFO 16336 --- [restartedMain] o.s.b.w.e.undertow.UndertowWebServer     : Undertow started on port(s) 8080 (http)
+2021-06-27 17:40:09.577  INFO 16336 --- [restartedMain] org.example.Application                  : Started Application in 1.235 seconds (JVM running for 1.952)
+2021-06-27 17:40:38.385  INFO 16336 --- [XNIO-1 task-1] io.undertow.servlet                      : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-06-27 17:40:38.385  INFO 16336 --- [XNIO-1 task-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2021-06-27 17:40:38.389  INFO 16336 --- [XNIO-1 task-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 4 ms
+2021-06-27 17:40:54.840 ERROR 16336 --- [XNIO-1 task-1] io.undertow.request                      : UT005023: Exception handling request to /xhr2.php
+
+org.springframework.web.util.NestedServletException: Request processing failed; nested exception is org.springframework.web.multipart.MultipartException: Failed to parse multipart servlet request; nested exception is java.lang.RuntimeException: java.io.IOException: UT000036: Connection terminated parsing multipart data
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1014) ~[spring-webmvc-5.2.10.RELEASE.jar:5.2.10.RELEASE]
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:909) ~[spring-webmvc-5.2.10.RELEASE.jar:5.2.10.RELEASE]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:517) ~[jakarta.servlet-api-4.0.4.jar:4.0.4]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883) ~[spring-webmvc-5.2.10.RELEASE.jar:5.2.10.RELEASE]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:584) ~[jakarta.servlet-api-4.0.4.jar:4.0.4]
+	at io.undertow.servlet.handlers.ServletHandler.handleRequest(ServletHandler.java:74) ~[undertow-servlet-2.1.4.Final.jar:2.1.4.Final]
+	at io.undertow.servlet.handlers.FilterHandler$FilterChainImpl.doFilter(FilterHandler.java:129) ~[undertow-servlet-2.1.4.Final.jar:2.1.4.Final]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100) ~[spring-web-5.2.10.RELEASE.jar:5.2.10.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119) ~[spring-web-5.2.10.RELEASE.jar:5.2.10.RELEASE]
+	at io.undertow.servlet.core.ManagedFilter.doFilter(ManagedFilter.java:61) ~[undertow-servlet-2.1.4.Final.jar:2.1.4.Final]
+	at io.undertow.servlet.handlers.FilterHandler$FilterChainImpl.doFilter(FilterHandler.java:131) ~[undertow-servlet-2.1.4.Final.jar:2.1.4.Final]
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93) ~[spring-web-5.2.10.RELEASE.jar:5.2.10.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119) ~[spring-web-5.2.10.RELEASE.jar:5.2.10.RELEASE]
+	at io.undertow.servlet.core.ManagedFilter.doFilter(ManagedFilter.java:61) ~[undertow-servlet-2.1.4.Final.jar:2.1.4.Final]
+	at io.undertow.servlet.handlers.FilterHandler$FilterChainImpl.doFilter(FilterHandler.java:131) ~[undertow-servlet-2.1.4.Final.jar:2.1.4.Final]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201) ~[spring-web-5.2.10.RELEASE.jar:5.2.10.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119) ~[spring-web-5.2.10.RELEASE.jar:5.2.10.RELEASE]
+	at io.undertow.servlet.core.ManagedFilter.doFilter(ManagedFilter.java:61) ~[undertow-servlet-2.1.4.Final.jar:2.1.4.Final]
+	at io.undertow.servlet.handlers.FilterHandler$FilterChainImpl.doFilter(FilterHandler.java:131) ~[undertow-servlet-2.1.4.Final.jar:2.1.4.Final]
+	at io.undertow.servlet.handlers.FilterHandler.handleRequest(FilterHandler.java:84) ~[undertow-servlet-2.1.4.Final.jar:2.1.4.Final]
+	at io.undertow.servlet.handlers.security.ServletSecurityRoleHandler.handleRequest(ServletSecurityRoleHandler.java:62) ~[undertow-servlet-2.1.4.Final.jar:2.1.4.Final]
+	at io.undertow.servlet.handlers.ServletChain$1.handleRequest(ServletChain.java:68) ~[undertow-servlet-2.1.4.Final.jar:2.1.4.Final]
+	at io.undertow.servlet.handlers.ServletDispatchingHandler.handleRequest(ServletDispatchingHandler.java:36) ~[undertow-servlet-2.1.4.Final.jar:2.1.4.Final]
+	at io.undertow.servlet.handlers.RedirectDirHandler.handleRequest(RedirectDirHandler.java:68) ~[undertow-servlet-2.1.4.Final.jar:2.1.4.Final]
+	at io.undertow.servlet.handlers.security.SSLInformationAssociationHandler.handleRequest(SSLInformationAssociationHandler.java:132) ~[undertow-servlet-2.1.4.Final.jar:2.1.4.Final]
+	at io.undertow.servlet.handlers.security.ServletAuthenticationCallHandler.handleRequest(ServletAuthenticationCallHandler.java:57) ~[undertow-servlet-2.1.4.Final.jar:2.1.4.Final]
+	at io.undertow.server.handlers.PredicateHandler.handleRequest(PredicateHandler.java:43) ~[undertow-core-2.1.4.Final.jar:2.1.4.Final]
+	at io.undertow.security.handlers.AbstractConfidentialityHandler.handleRequest(AbstractConfidentialityHandler.java:46) ~[undertow-core-2.1.4.Final.jar:2.1.4.Final]
+	at io.undertow.servlet.handlers.security.ServletConfidentialityConstraintHandler.handleRequest(ServletConfidentialityConstraintHandler.java:64) ~[undertow-servlet-2.1.4.Final.jar:2.1.4.Final]
+	at io.undertow.security.handlers.AuthenticationMechanismsHandler.handleRequest(AuthenticationMechanismsHandler.java:60) ~[undertow-core-2.1.4.Final.jar:2.1.4.Final]
+	at io.undertow.servlet.handlers.security.CachedAuthenticatedSessionHandler.handleRequest(CachedAuthenticatedSessionHandler.java:77) ~[undertow-servlet-2.1.4.Final.jar:2.1.4.Final]
+	at io.undertow.security.handlers.AbstractSecurityContextAssociationHandler.handleRequest(AbstractSecurityContextAssociationHandler.java:43) ~[undertow-core-2.1.4.Final.jar:2.1.4.Final]
+	at io.undertow.server.handlers.PredicateHandler.handleRequest(PredicateHandler.java:43) ~[undertow-core-2.1.4.Final.jar:2.1.4.Final]
+	at io.undertow.server.handlers.PredicateHandler.handleRequest(PredicateHandler.java:43) ~[undertow-core-2.1.4.Final.jar:2.1.4.Final]
+	at io.undertow.servlet.handlers.SessionRestoringHandler.handleRequest(SessionRestoringHandler.java:119) ~[undertow-servlet-2.1.4.Final.jar:2.1.4.Final]
+	at io.undertow.servlet.handlers.ServletInitialHandler.handleFirstRequest(ServletInitialHandler.java:269) [undertow-servlet-2.1.4.Final.jar:2.1.4.Final]
+	at io.undertow.servlet.handlers.ServletInitialHandler.access$100(ServletInitialHandler.java:78) [undertow-servlet-2.1.4.Final.jar:2.1.4.Final]
+	at io.undertow.servlet.handlers.ServletInitialHandler$2.call(ServletInitialHandler.java:133) [undertow-servlet-2.1.4.Final.jar:2.1.4.Final]
+	at io.undertow.servlet.handlers.ServletInitialHandler$2.call(ServletInitialHandler.java:130) [undertow-servlet-2.1.4.Final.jar:2.1.4.Final]
+	at io.undertow.servlet.core.ServletRequestContextThreadSetupAction$1.call(ServletRequestContextThreadSetupAction.java:48) [undertow-servlet-2.1.4.Final.jar:2.1.4.Final]
+	at io.undertow.servlet.core.ContextClassLoaderSetupAction$1.call(ContextClassLoaderSetupAction.java:43) [undertow-servlet-2.1.4.Final.jar:2.1.4.Final]
+	at io.undertow.servlet.handlers.ServletInitialHandler.dispatchRequest(ServletInitialHandler.java:249) [undertow-servlet-2.1.4.Final.jar:2.1.4.Final]
+	at io.undertow.servlet.handlers.ServletInitialHandler.access$000(ServletInitialHandler.java:78) [undertow-servlet-2.1.4.Final.jar:2.1.4.Final]
+	at io.undertow.servlet.handlers.ServletInitialHandler$1.handleRequest(ServletInitialHandler.java:99) [undertow-servlet-2.1.4.Final.jar:2.1.4.Final]
+	at io.undertow.server.Connectors.executeRootHandler(Connectors.java:370) [undertow-core-2.1.4.Final.jar:2.1.4.Final]
+	at io.undertow.server.HttpServerExchange$1.run(HttpServerExchange.java:836) [undertow-core-2.1.4.Final.jar:2.1.4.Final]
+	at org.jboss.threads.ContextClassLoaderSavingRunnable.run(ContextClassLoaderSavingRunnable.java:35) [jboss-threads-3.1.0.Final.jar:3.1.0.Final]
+	at org.jboss.threads.EnhancedQueueExecutor.safeRun(EnhancedQueueExecutor.java:2019) [jboss-threads-3.1.0.Final.jar:3.1.0.Final]
+	at org.jboss.threads.EnhancedQueueExecutor$ThreadBody.doRunTask(EnhancedQueueExecutor.java:1558) [jboss-threads-3.1.0.Final.jar:3.1.0.Final]
+	at org.jboss.threads.EnhancedQueueExecutor$ThreadBody.run(EnhancedQueueExecutor.java:1449) [jboss-threads-3.1.0.Final.jar:3.1.0.Final]
+	at java.lang.Thread.run(Thread.java:748) [na:1.8.0_221]
+Caused by: org.springframework.web.multipart.MultipartException: Failed to parse multipart servlet request; nested exception is java.lang.RuntimeException: java.io.IOException: UT000036: Connection terminated parsing multipart data
+	at org.springframework.web.multipart.support.StandardMultipartHttpServletRequest.handleParseFailure(StandardMultipartHttpServletRequest.java:124) ~[spring-web-5.2.10.RELEASE.jar:5.2.10.RELEASE]
+	at org.springframework.web.multipart.support.StandardMultipartHttpServletRequest.parseRequest(StandardMultipartHttpServletRequest.java:115) ~[spring-web-5.2.10.RELEASE.jar:5.2.10.RELEASE]
+	at org.springframework.web.multipart.support.StandardMultipartHttpServletRequest.<init>(StandardMultipartHttpServletRequest.java:88) ~[spring-web-5.2.10.RELEASE.jar:5.2.10.RELEASE]
+	at org.springframework.web.multipart.support.StandardServletMultipartResolver.resolveMultipart(StandardServletMultipartResolver.java:87) ~[spring-web-5.2.10.RELEASE.jar:5.2.10.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.checkMultipart(DispatcherServlet.java:1178) ~[spring-webmvc-5.2.10.RELEASE.jar:5.2.10.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1012) ~[spring-webmvc-5.2.10.RELEASE.jar:5.2.10.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:943) ~[spring-webmvc-5.2.10.RELEASE.jar:5.2.10.RELEASE]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006) ~[spring-webmvc-5.2.10.RELEASE.jar:5.2.10.RELEASE]
+	... 50 common frames omitted
+Caused by: java.lang.RuntimeException: java.io.IOException: UT000036: Connection terminated parsing multipart data
+	at io.undertow.servlet.spec.HttpServletRequestImpl.parseFormData(HttpServletRequestImpl.java:851) ~[undertow-servlet-2.1.4.Final.jar:2.1.4.Final]
+	at io.undertow.servlet.spec.HttpServletRequestImpl.loadParts(HttpServletRequestImpl.java:567) ~[undertow-servlet-2.1.4.Final.jar:2.1.4.Final]
+	at io.undertow.servlet.spec.HttpServletRequestImpl.getParts(HttpServletRequestImpl.java:518) ~[undertow-servlet-2.1.4.Final.jar:2.1.4.Final]
+	at org.springframework.web.multipart.support.StandardMultipartHttpServletRequest.parseRequest(StandardMultipartHttpServletRequest.java:95) ~[spring-web-5.2.10.RELEASE.jar:5.2.10.RELEASE]
+	... 56 common frames omitted
+Caused by: java.io.IOException: UT000036: Connection terminated parsing multipart data
+	at io.undertow.server.handlers.form.MultiPartParserDefinition$MultiPartUploadHandler.parseBlocking(MultiPartParserDefinition.java:228) ~[undertow-core-2.1.4.Final.jar:2.1.4.Final]
+	at io.undertow.servlet.spec.HttpServletRequestImpl.parseFormData(HttpServletRequestImpl.java:845) ~[undertow-servlet-2.1.4.Final.jar:2.1.4.Final]
+	... 59 common frames omitted
+
+2021-06-27 17:40:55.996 ERROR 16336 --- [XNIO-1 task-1] io.undertow.request                      : UT005023: Exception handling request to /xhr2.php
+
+org.springframework.web.util.NestedServletException: Request processing failed; nested exception is org.springframework.web.multipart.MultipartException: Failed to parse multipart servlet request; nested exception is java.lang.RuntimeException: java.io.IOException: UT000036: Connection terminated parsing multipart data
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1014) ~[spring-webmvc-5.2.10.RELEASE.jar:5.2.10.RELEASE]
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:909) ~[spring-webmvc-5.2.10.RELEASE.jar:5.2.10.RELEASE]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:517) ~[jakarta.servlet-api-4.0.4.jar:4.0.4]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883) ~[spring-webmvc-5.2.10.RELEASE.jar:5.2.10.RELEASE]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:584) ~[jakarta.servlet-api-4.0.4.jar:4.0.4]
+	at io.undertow.servlet.handlers.ServletHandler.handleRequest(ServletHandler.java:74) ~[undertow-servlet-2.1.4.Final.jar:2.1.4.Final]
+	at io.undertow.servlet.handlers.FilterHandler$FilterChainImpl.doFilter(FilterHandler.java:129) ~[undertow-servlet-2.1.4.Final.jar:2.1.4.Final]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100) ~[spring-web-5.2.10.RELEASE.jar:5.2.10.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119) ~[spring-web-5.2.10.RELEASE.jar:5.2.10.RELEASE]
+	at io.undertow.servlet.core.ManagedFilter.doFilter(ManagedFilter.java:61) ~[undertow-servlet-2.1.4.Final.jar:2.1.4.Final]
+	at io.undertow.servlet.handlers.FilterHandler$FilterChainImpl.doFilter(FilterHandler.java:131) ~[undertow-servlet-2.1.4.Final.jar:2.1.4.Final]
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93) ~[spring-web-5.2.10.RELEASE.jar:5.2.10.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119) ~[spring-web-5.2.10.RELEASE.jar:5.2.10.RELEASE]
+	at io.undertow.servlet.core.ManagedFilter.doFilter(ManagedFilter.java:61) ~[undertow-servlet-2.1.4.Final.jar:2.1.4.Final]
+	at io.undertow.servlet.handlers.FilterHandler$FilterChainImpl.doFilter(FilterHandler.java:131) ~[undertow-servlet-2.1.4.Final.jar:2.1.4.Final]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201) ~[spring-web-5.2.10.RELEASE.jar:5.2.10.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119) ~[spring-web-5.2.10.RELEASE.jar:5.2.10.RELEASE]
+	at io.undertow.servlet.core.ManagedFilter.doFilter(ManagedFilter.java:61) ~[undertow-servlet-2.1.4.Final.jar:2.1.4.Final]
+	at io.undertow.servlet.handlers.FilterHandler$FilterChainImpl.doFilter(FilterHandler.java:131) ~[undertow-servlet-2.1.4.Final.jar:2.1.4.Final]
+	at io.undertow.servlet.handlers.FilterHandler.handleRequest(FilterHandler.java:84) ~[undertow-servlet-2.1.4.Final.jar:2.1.4.Final]
+	at io.undertow.servlet.handlers.security.ServletSecurityRoleHandler.handleRequest(ServletSecurityRoleHandler.java:62) ~[undertow-servlet-2.1.4.Final.jar:2.1.4.Final]
+	at io.undertow.servlet.handlers.ServletChain$1.handleRequest(ServletChain.java:68) ~[undertow-servlet-2.1.4.Final.jar:2.1.4.Final]
+	at io.undertow.servlet.handlers.ServletDispatchingHandler.handleRequest(ServletDispatchingHandler.java:36) ~[undertow-servlet-2.1.4.Final.jar:2.1.4.Final]
+	at io.undertow.servlet.handlers.RedirectDirHandler.handleRequest(RedirectDirHandler.java:68) ~[undertow-servlet-2.1.4.Final.jar:2.1.4.Final]
+	at io.undertow.servlet.handlers.security.SSLInformationAssociationHandler.handleRequest(SSLInformationAssociationHandler.java:132) ~[undertow-servlet-2.1.4.Final.jar:2.1.4.Final]
+	at io.undertow.servlet.handlers.security.ServletAuthenticationCallHandler.handleRequest(ServletAuthenticationCallHandler.java:57) ~[undertow-servlet-2.1.4.Final.jar:2.1.4.Final]
+	at io.undertow.server.handlers.PredicateHandler.handleRequest(PredicateHandler.java:43) ~[undertow-core-2.1.4.Final.jar:2.1.4.Final]
+	at io.undertow.security.handlers.AbstractConfidentialityHandler.handleRequest(AbstractConfidentialityHandler.java:46) ~[undertow-core-2.1.4.Final.jar:2.1.4.Final]
+	at io.undertow.servlet.handlers.security.ServletConfidentialityConstraintHandler.handleRequest(ServletConfidentialityConstraintHandler.java:64) ~[undertow-servlet-2.1.4.Final.jar:2.1.4.Final]
+	at io.undertow.security.handlers.AuthenticationMechanismsHandler.handleRequest(AuthenticationMechanismsHandler.java:60) ~[undertow-core-2.1.4.Final.jar:2.1.4.Final]
+	at io.undertow.servlet.handlers.security.CachedAuthenticatedSessionHandler.handleRequest(CachedAuthenticatedSessionHandler.java:77) ~[undertow-servlet-2.1.4.Final.jar:2.1.4.Final]
+	at io.undertow.security.handlers.AbstractSecurityContextAssociationHandler.handleRequest(AbstractSecurityContextAssociationHandler.java:43) ~[undertow-core-2.1.4.Final.jar:2.1.4.Final]
+	at io.undertow.server.handlers.PredicateHandler.handleRequest(PredicateHandler.java:43) ~[undertow-core-2.1.4.Final.jar:2.1.4.Final]
+	at io.undertow.server.handlers.PredicateHandler.handleRequest(PredicateHandler.java:43) ~[undertow-core-2.1.4.Final.jar:2.1.4.Final]
+	at io.undertow.servlet.handlers.SessionRestoringHandler.handleRequest(SessionRestoringHandler.java:119) ~[undertow-servlet-2.1.4.Final.jar:2.1.4.Final]
+	at io.undertow.servlet.handlers.ServletInitialHandler.handleFirstRequest(ServletInitialHandler.java:269) [undertow-servlet-2.1.4.Final.jar:2.1.4.Final]
+	at io.undertow.servlet.handlers.ServletInitialHandler.access$100(ServletInitialHandler.java:78) [undertow-servlet-2.1.4.Final.jar:2.1.4.Final]
+	at io.undertow.servlet.handlers.ServletInitialHandler$2.call(ServletInitialHandler.java:133) [undertow-servlet-2.1.4.Final.jar:2.1.4.Final]
+	at io.undertow.servlet.handlers.ServletInitialHandler$2.call(ServletInitialHandler.java:130) [undertow-servlet-2.1.4.Final.jar:2.1.4.Final]
+	at io.undertow.servlet.core.ServletRequestContextThreadSetupAction$1.call(ServletRequestContextThreadSetupAction.java:48) [undertow-servlet-2.1.4.Final.jar:2.1.4.Final]
+	at io.undertow.servlet.core.ContextClassLoaderSetupAction$1.call(ContextClassLoaderSetupAction.java:43) [undertow-servlet-2.1.4.Final.jar:2.1.4.Final]
+	at io.undertow.servlet.handlers.ServletInitialHandler.dispatchRequest(ServletInitialHandler.java:249) [undertow-servlet-2.1.4.Final.jar:2.1.4.Final]
+	at io.undertow.servlet.handlers.ServletInitialHandler.access$000(ServletInitialHandler.java:78) [undertow-servlet-2.1.4.Final.jar:2.1.4.Final]
+	at io.undertow.servlet.handlers.ServletInitialHandler$1.handleRequest(ServletInitialHandler.java:99) [undertow-servlet-2.1.4.Final.jar:2.1.4.Final]
+	at io.undertow.server.Connectors.executeRootHandler(Connectors.java:370) [undertow-core-2.1.4.Final.jar:2.1.4.Final]
+	at io.undertow.server.HttpServerExchange$1.run(HttpServerExchange.java:836) [undertow-core-2.1.4.Final.jar:2.1.4.Final]
+	at org.jboss.threads.ContextClassLoaderSavingRunnable.run(ContextClassLoaderSavingRunnable.java:35) [jboss-threads-3.1.0.Final.jar:3.1.0.Final]
+	at org.jboss.threads.EnhancedQueueExecutor.safeRun(EnhancedQueueExecutor.java:2019) [jboss-threads-3.1.0.Final.jar:3.1.0.Final]
+	at org.jboss.threads.EnhancedQueueExecutor$ThreadBody.doRunTask(EnhancedQueueExecutor.java:1558) [jboss-threads-3.1.0.Final.jar:3.1.0.Final]
+	at org.jboss.threads.EnhancedQueueExecutor$ThreadBody.run(EnhancedQueueExecutor.java:1449) [jboss-threads-3.1.0.Final.jar:3.1.0.Final]
+	at java.lang.Thread.run(Thread.java:748) [na:1.8.0_221]
+Caused by: org.springframework.web.multipart.MultipartException: Failed to parse multipart servlet request; nested exception is java.lang.RuntimeException: java.io.IOException: UT000036: Connection terminated parsing multipart data
+	at org.springframework.web.multipart.support.StandardMultipartHttpServletRequest.handleParseFailure(StandardMultipartHttpServletRequest.java:124) ~[spring-web-5.2.10.RELEASE.jar:5.2.10.RELEASE]
+	at org.springframework.web.multipart.support.StandardMultipartHttpServletRequest.parseRequest(StandardMultipartHttpServletRequest.java:115) ~[spring-web-5.2.10.RELEASE.jar:5.2.10.RELEASE]
+	at org.springframework.web.multipart.support.StandardMultipartHttpServletRequest.<init>(StandardMultipartHttpServletRequest.java:88) ~[spring-web-5.2.10.RELEASE.jar:5.2.10.RELEASE]
+	at org.springframework.web.multipart.support.StandardServletMultipartResolver.resolveMultipart(StandardServletMultipartResolver.java:87) ~[spring-web-5.2.10.RELEASE.jar:5.2.10.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.checkMultipart(DispatcherServlet.java:1178) ~[spring-webmvc-5.2.10.RELEASE.jar:5.2.10.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1012) ~[spring-webmvc-5.2.10.RELEASE.jar:5.2.10.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:943) ~[spring-webmvc-5.2.10.RELEASE.jar:5.2.10.RELEASE]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006) ~[spring-webmvc-5.2.10.RELEASE.jar:5.2.10.RELEASE]
+	... 50 common frames omitted
+Caused by: java.lang.RuntimeException: java.io.IOException: UT000036: Connection terminated parsing multipart data
+	at io.undertow.servlet.spec.HttpServletRequestImpl.parseFormData(HttpServletRequestImpl.java:851) ~[undertow-servlet-2.1.4.Final.jar:2.1.4.Final]
+	at io.undertow.servlet.spec.HttpServletRequestImpl.loadParts(HttpServletRequestImpl.java:567) ~[undertow-servlet-2.1.4.Final.jar:2.1.4.Final]
+	at io.undertow.servlet.spec.HttpServletRequestImpl.getParts(HttpServletRequestImpl.java:518) ~[undertow-servlet-2.1.4.Final.jar:2.1.4.Final]
+	at org.springframework.web.multipart.support.StandardMultipartHttpServletRequest.parseRequest(StandardMultipartHttpServletRequest.java:95) ~[spring-web-5.2.10.RELEASE.jar:5.2.10.RELEASE]
+	... 56 common frames omitted
+Caused by: java.io.IOException: UT000036: Connection terminated parsing multipart data
+	at io.undertow.server.handlers.form.MultiPartParserDefinition$MultiPartUploadHandler.parseBlocking(MultiPartParserDefinition.java:228) ~[undertow-core-2.1.4.Final.jar:2.1.4.Final]
+	at io.undertow.servlet.spec.HttpServletRequestImpl.parseFormData(HttpServletRequestImpl.java:845) ~[undertow-servlet-2.1.4.Final.jar:2.1.4.Final]
+	... 59 common frames omitted
+
+2021-06-27 17:40:56.434 ERROR 16336 --- [XNIO-1 task-1] io.undertow.request                      : UT005023: Exception handling request to /xhr2.php
+
+org.springframework.web.util.NestedServletException: Request processing failed; nested exception is org.springframework.web.multipart.MultipartException: Failed to parse multipart servlet request; nested exception is java.lang.RuntimeException: java.io.IOException: UT000036: Connection terminated parsing multipart data
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1014) ~[spring-webmvc-5.2.10.RELEASE.jar:5.2.10.RELEASE]
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:909) ~[spring-webmvc-5.2.10.RELEASE.jar:5.2.10.RELEASE]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:517) ~[jakarta.servlet-api-4.0.4.jar:4.0.4]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883) ~[spring-webmvc-5.2.10.RELEASE.jar:5.2.10.RELEASE]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:584) ~[jakarta.servlet-api-4.0.4.jar:4.0.4]
+	at io.undertow.servlet.handlers.ServletHandler.handleRequest(ServletHandler.java:74) ~[undertow-servlet-2.1.4.Final.jar:2.1.4.Final]
+	at io.undertow.servlet.handlers.FilterHandler$FilterChainImpl.doFilter(FilterHandler.java:129) ~[undertow-servlet-2.1.4.Final.jar:2.1.4.Final]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100) ~[spring-web-5.2.10.RELEASE.jar:5.2.10.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119) ~[spring-web-5.2.10.RELEASE.jar:5.2.10.RELEASE]
+	at io.undertow.servlet.core.ManagedFilter.doFilter(ManagedFilter.java:61) ~[undertow-servlet-2.1.4.Final.jar:2.1.4.Final]
+	at io.undertow.servlet.handlers.FilterHandler$FilterChainImpl.doFilter(FilterHandler.java:131) ~[undertow-servlet-2.1.4.Final.jar:2.1.4.Final]
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93) ~[spring-web-5.2.10.RELEASE.jar:5.2.10.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119) ~[spring-web-5.2.10.RELEASE.jar:5.2.10.RELEASE]
+	at io.undertow.servlet.core.ManagedFilter.doFilter(ManagedFilter.java:61) ~[undertow-servlet-2.1.4.Final.jar:2.1.4.Final]
+	at io.undertow.servlet.handlers.FilterHandler$FilterChainImpl.doFilter(FilterHandler.java:131) ~[undertow-servlet-2.1.4.Final.jar:2.1.4.Final]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201) ~[spring-web-5.2.10.RELEASE.jar:5.2.10.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119) ~[spring-web-5.2.10.RELEASE.jar:5.2.10.RELEASE]
+	at io.undertow.servlet.core.ManagedFilter.doFilter(ManagedFilter.java:61) ~[undertow-servlet-2.1.4.Final.jar:2.1.4.Final]
+	at io.undertow.servlet.handlers.FilterHandler$FilterChainImpl.doFilter(FilterHandler.java:131) ~[undertow-servlet-2.1.4.Final.jar:2.1.4.Final]
+	at io.undertow.servlet.handlers.FilterHandler.handleRequest(FilterHandler.java:84) ~[undertow-servlet-2.1.4.Final.jar:2.1.4.Final]
+	at io.undertow.servlet.handlers.security.ServletSecurityRoleHandler.handleRequest(ServletSecurityRoleHandler.java:62) ~[undertow-servlet-2.1.4.Final.jar:2.1.4.Final]
+	at io.undertow.servlet.handlers.ServletChain$1.handleRequest(ServletChain.java:68) ~[undertow-servlet-2.1.4.Final.jar:2.1.4.Final]
+	at io.undertow.servlet.handlers.ServletDispatchingHandler.handleRequest(ServletDispatchingHandler.java:36) ~[undertow-servlet-2.1.4.Final.jar:2.1.4.Final]
+	at io.undertow.servlet.handlers.RedirectDirHandler.handleRequest(RedirectDirHandler.java:68) ~[undertow-servlet-2.1.4.Final.jar:2.1.4.Final]
+	at io.undertow.servlet.handlers.security.SSLInformationAssociationHandler.handleRequest(SSLInformationAssociationHandler.java:132) ~[undertow-servlet-2.1.4.Final.jar:2.1.4.Final]
+	at io.undertow.servlet.handlers.security.ServletAuthenticationCallHandler.handleRequest(ServletAuthenticationCallHandler.java:57) ~[undertow-servlet-2.1.4.Final.jar:2.1.4.Final]
+	at io.undertow.server.handlers.PredicateHandler.handleRequest(PredicateHandler.java:43) ~[undertow-core-2.1.4.Final.jar:2.1.4.Final]
+	at io.undertow.security.handlers.AbstractConfidentialityHandler.handleRequest(AbstractConfidentialityHandler.java:46) ~[undertow-core-2.1.4.Final.jar:2.1.4.Final]
+	at io.undertow.servlet.handlers.security.ServletConfidentialityConstraintHandler.handleRequest(ServletConfidentialityConstraintHandler.java:64) ~[undertow-servlet-2.1.4.Final.jar:2.1.4.Final]
+	at io.undertow.security.handlers.AuthenticationMechanismsHandler.handleRequest(AuthenticationMechanismsHandler.java:60) ~[undertow-core-2.1.4.Final.jar:2.1.4.Final]
+	at io.undertow.servlet.handlers.security.CachedAuthenticatedSessionHandler.handleRequest(CachedAuthenticatedSessionHandler.java:77) ~[undertow-servlet-2.1.4.Final.jar:2.1.4.Final]
+	at io.undertow.security.handlers.AbstractSecurityContextAssociationHandler.handleRequest(AbstractSecurityContextAssociationHandler.java:43) ~[undertow-core-2.1.4.Final.jar:2.1.4.Final]
+	at io.undertow.server.handlers.PredicateHandler.handleRequest(PredicateHandler.java:43) ~[undertow-core-2.1.4.Final.jar:2.1.4.Final]
+	at io.undertow.server.handlers.PredicateHandler.handleRequest(PredicateHandler.java:43) ~[undertow-core-2.1.4.Final.jar:2.1.4.Final]
+	at io.undertow.servlet.handlers.SessionRestoringHandler.handleRequest(SessionRestoringHandler.java:119) ~[undertow-servlet-2.1.4.Final.jar:2.1.4.Final]
+	at io.undertow.servlet.handlers.ServletInitialHandler.handleFirstRequest(ServletInitialHandler.java:269) [undertow-servlet-2.1.4.Final.jar:2.1.4.Final]
+	at io.undertow.servlet.handlers.ServletInitialHandler.access$100(ServletInitialHandler.java:78) [undertow-servlet-2.1.4.Final.jar:2.1.4.Final]
+	at io.undertow.servlet.handlers.ServletInitialHandler$2.call(ServletInitialHandler.java:133) [undertow-servlet-2.1.4.Final.jar:2.1.4.Final]
+	at io.undertow.servlet.handlers.ServletInitialHandler$2.call(ServletInitialHandler.java:130) [undertow-servlet-2.1.4.Final.jar:2.1.4.Final]
+	at io.undertow.servlet.core.ServletRequestContextThreadSetupAction$1.call(ServletRequestContextThreadSetupAction.java:48) [undertow-servlet-2.1.4.Final.jar:2.1.4.Final]
+	at io.undertow.servlet.core.ContextClassLoaderSetupAction$1.call(ContextClassLoaderSetupAction.java:43) [undertow-servlet-2.1.4.Final.jar:2.1.4.Final]
+	at io.undertow.servlet.handlers.ServletInitialHandler.dispatchRequest(ServletInitialHandler.java:249) [undertow-servlet-2.1.4.Final.jar:2.1.4.Final]
+	at io.undertow.servlet.handlers.ServletInitialHandler.access$000(ServletInitialHandler.java:78) [undertow-servlet-2.1.4.Final.jar:2.1.4.Final]
+	at io.undertow.servlet.handlers.ServletInitialHandler$1.handleRequest(ServletInitialHandler.java:99) [undertow-servlet-2.1.4.Final.jar:2.1.4.Final]
+	at io.undertow.server.Connectors.executeRootHandler(Connectors.java:370) [undertow-core-2.1.4.Final.jar:2.1.4.Final]
+	at io.undertow.server.HttpServerExchange$1.run(HttpServerExchange.java:836) [undertow-core-2.1.4.Final.jar:2.1.4.Final]
+	at org.jboss.threads.ContextClassLoaderSavingRunnable.run(ContextClassLoaderSavingRunnable.java:35) [jboss-threads-3.1.0.Final.jar:3.1.0.Final]
+	at org.jboss.threads.EnhancedQueueExecutor.safeRun(EnhancedQueueExecutor.java:2019) [jboss-threads-3.1.0.Final.jar:3.1.0.Final]
+	at org.jboss.threads.EnhancedQueueExecutor$ThreadBody.doRunTask(EnhancedQueueExecutor.java:1558) [jboss-threads-3.1.0.Final.jar:3.1.0.Final]
+	at org.jboss.threads.EnhancedQueueExecutor$ThreadBody.run(EnhancedQueueExecutor.java:1449) [jboss-threads-3.1.0.Final.jar:3.1.0.Final]
+	at java.lang.Thread.run(Thread.java:748) [na:1.8.0_221]
+Caused by: org.springframework.web.multipart.MultipartException: Failed to parse multipart servlet request; nested exception is java.lang.RuntimeException: java.io.IOException: UT000036: Connection terminated parsing multipart data
+	at org.springframework.web.multipart.support.StandardMultipartHttpServletRequest.handleParseFailure(StandardMultipartHttpServletRequest.java:124) ~[spring-web-5.2.10.RELEASE.jar:5.2.10.RELEASE]
+	at org.springframework.web.multipart.support.StandardMultipartHttpServletRequest.parseRequest(StandardMultipartHttpServletRequest.java:115) ~[spring-web-5.2.10.RELEASE.jar:5.2.10.RELEASE]
+	at org.springframework.web.multipart.support.StandardMultipartHttpServletRequest.<init>(StandardMultipartHttpServletRequest.java:88) ~[spring-web-5.2.10.RELEASE.jar:5.2.10.RELEASE]
+	at org.springframework.web.multipart.support.StandardServletMultipartResolver.resolveMultipart(StandardServletMultipartResolver.java:87) ~[spring-web-5.2.10.RELEASE.jar:5.2.10.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.checkMultipart(DispatcherServlet.java:1178) ~[spring-webmvc-5.2.10.RELEASE.jar:5.2.10.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1012) ~[spring-webmvc-5.2.10.RELEASE.jar:5.2.10.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:943) ~[spring-webmvc-5.2.10.RELEASE.jar:5.2.10.RELEASE]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006) ~[spring-webmvc-5.2.10.RELEASE.jar:5.2.10.RELEASE]
+	... 50 common frames omitted
+Caused by: java.lang.RuntimeException: java.io.IOException: UT000036: Connection terminated parsing multipart data
+	at io.undertow.servlet.spec.HttpServletRequestImpl.parseFormData(HttpServletRequestImpl.java:851) ~[undertow-servlet-2.1.4.Final.jar:2.1.4.Final]
+	at io.undertow.servlet.spec.HttpServletRequestImpl.loadParts(HttpServletRequestImpl.java:567) ~[undertow-servlet-2.1.4.Final.jar:2.1.4.Final]
+	at io.undertow.servlet.spec.HttpServletRequestImpl.getParts(HttpServletRequestImpl.java:518) ~[undertow-servlet-2.1.4.Final.jar:2.1.4.Final]
+	at org.springframework.web.multipart.support.StandardMultipartHttpServletRequest.parseRequest(StandardMultipartHttpServletRequest.java:95) ~[spring-web-5.2.10.RELEASE.jar:5.2.10.RELEASE]
+	... 56 common frames omitted
+Caused by: java.io.IOException: UT000036: Connection terminated parsing multipart data
+	at io.undertow.server.handlers.form.MultiPartParserDefinition$MultiPartUploadHandler.parseBlocking(MultiPartParserDefinition.java:228) ~[undertow-core-2.1.4.Final.jar:2.1.4.Final]
+	at io.undertow.servlet.spec.HttpServletRequestImpl.parseFormData(HttpServletRequestImpl.java:845) ~[undertow-servlet-2.1.4.Final.jar:2.1.4.Final]
+	... 59 common frames omitted
+
+2021-06-27 17:40:56.631 ERROR 16336 --- [XNIO-1 task-1] io.undertow.request                      : UT005023: Exception handling request to /xhr2.php
+
+org.springframework.web.util.NestedServletException: Request processing failed; nested exception is org.springframework.web.multipart.MultipartException: Failed to parse multipart servlet request; nested exception is java.lang.RuntimeException: java.io.IOException: UT000036: Connection terminated parsing multipart data
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1014) ~[spring-webmvc-5.2.10.RELEASE.jar:5.2.10.RELEASE]
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:909) ~[spring-webmvc-5.2.10.RELEASE.jar:5.2.10.RELEASE]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:517) ~[jakarta.servlet-api-4.0.4.jar:4.0.4]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883) ~[spring-webmvc-5.2.10.RELEASE.jar:5.2.10.RELEASE]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:584) ~[jakarta.servlet-api-4.0.4.jar:4.0.4]
+	at io.undertow.servlet.handlers.ServletHandler.handleRequest(ServletHandler.java:74) ~[undertow-servlet-2.1.4.Final.jar:2.1.4.Final]
+	at io.undertow.servlet.handlers.FilterHandler$FilterChainImpl.doFilter(FilterHandler.java:129) ~[undertow-servlet-2.1.4.Final.jar:2.1.4.Final]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100) ~[spring-web-5.2.10.RELEASE.jar:5.2.10.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119) ~[spring-web-5.2.10.RELEASE.jar:5.2.10.RELEASE]
+	at io.undertow.servlet.core.ManagedFilter.doFilter(ManagedFilter.java:61) ~[undertow-servlet-2.1.4.Final.jar:2.1.4.Final]
+	at io.undertow.servlet.handlers.FilterHandler$FilterChainImpl.doFilter(FilterHandler.java:131) ~[undertow-servlet-2.1.4.Final.jar:2.1.4.Final]
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93) ~[spring-web-5.2.10.RELEASE.jar:5.2.10.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119) ~[spring-web-5.2.10.RELEASE.jar:5.2.10.RELEASE]
+	at io.undertow.servlet.core.ManagedFilter.doFilter(ManagedFilter.java:61) ~[undertow-servlet-2.1.4.Final.jar:2.1.4.Final]
+	at io.undertow.servlet.handlers.FilterHandler$FilterChainImpl.doFilter(FilterHandler.java:131) ~[undertow-servlet-2.1.4.Final.jar:2.1.4.Final]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201) ~[spring-web-5.2.10.RELEASE.jar:5.2.10.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119) ~[spring-web-5.2.10.RELEASE.jar:5.2.10.RELEASE]
+	at io.undertow.servlet.core.ManagedFilter.doFilter(ManagedFilter.java:61) ~[undertow-servlet-2.1.4.Final.jar:2.1.4.Final]
+	at io.undertow.servlet.handlers.FilterHandler$FilterChainImpl.doFilter(FilterHandler.java:131) ~[undertow-servlet-2.1.4.Final.jar:2.1.4.Final]
+	at io.undertow.servlet.handlers.FilterHandler.handleRequest(FilterHandler.java:84) ~[undertow-servlet-2.1.4.Final.jar:2.1.4.Final]
+	at io.undertow.servlet.handlers.security.ServletSecurityRoleHandler.handleRequest(ServletSecurityRoleHandler.java:62) ~[undertow-servlet-2.1.4.Final.jar:2.1.4.Final]
+	at io.undertow.servlet.handlers.ServletChain$1.handleRequest(ServletChain.java:68) ~[undertow-servlet-2.1.4.Final.jar:2.1.4.Final]
+	at io.undertow.servlet.handlers.ServletDispatchingHandler.handleRequest(ServletDispatchingHandler.java:36) ~[undertow-servlet-2.1.4.Final.jar:2.1.4.Final]
+	at io.undertow.servlet.handlers.RedirectDirHandler.handleRequest(RedirectDirHandler.java:68) ~[undertow-servlet-2.1.4.Final.jar:2.1.4.Final]
+	at io.undertow.servlet.handlers.security.SSLInformationAssociationHandler.handleRequest(SSLInformationAssociationHandler.java:132) ~[undertow-servlet-2.1.4.Final.jar:2.1.4.Final]
+	at io.undertow.servlet.handlers.security.ServletAuthenticationCallHandler.handleRequest(ServletAuthenticationCallHandler.java:57) ~[undertow-servlet-2.1.4.Final.jar:2.1.4.Final]
+	at io.undertow.server.handlers.PredicateHandler.handleRequest(PredicateHandler.java:43) ~[undertow-core-2.1.4.Final.jar:2.1.4.Final]
+	at io.undertow.security.handlers.AbstractConfidentialityHandler.handleRequest(AbstractConfidentialityHandler.java:46) ~[undertow-core-2.1.4.Final.jar:2.1.4.Final]
+	at io.undertow.servlet.handlers.security.ServletConfidentialityConstraintHandler.handleRequest(ServletConfidentialityConstraintHandler.java:64) ~[undertow-servlet-2.1.4.Final.jar:2.1.4.Final]
+	at io.undertow.security.handlers.AuthenticationMechanismsHandler.handleRequest(AuthenticationMechanismsHandler.java:60) ~[undertow-core-2.1.4.Final.jar:2.1.4.Final]
+	at io.undertow.servlet.handlers.security.CachedAuthenticatedSessionHandler.handleRequest(CachedAuthenticatedSessionHandler.java:77) ~[undertow-servlet-2.1.4.Final.jar:2.1.4.Final]
+	at io.undertow.security.handlers.AbstractSecurityContextAssociationHandler.handleRequest(AbstractSecurityContextAssociationHandler.java:43) ~[undertow-core-2.1.4.Final.jar:2.1.4.Final]
+	at io.undertow.server.handlers.PredicateHandler.handleRequest(PredicateHandler.java:43) ~[undertow-core-2.1.4.Final.jar:2.1.4.Final]
+	at io.undertow.server.handlers.PredicateHandler.handleRequest(PredicateHandler.java:43) ~[undertow-core-2.1.4.Final.jar:2.1.4.Final]
+	at io.undertow.servlet.handlers.SessionRestoringHandler.handleRequest(SessionRestoringHandler.java:119) ~[undertow-servlet-2.1.4.Final.jar:2.1.4.Final]
+	at io.undertow.servlet.handlers.ServletInitialHandler.handleFirstRequest(ServletInitialHandler.java:269) [undertow-servlet-2.1.4.Final.jar:2.1.4.Final]
+	at io.undertow.servlet.handlers.ServletInitialHandler.access$100(ServletInitialHandler.java:78) [undertow-servlet-2.1.4.Final.jar:2.1.4.Final]
+	at io.undertow.servlet.handlers.ServletInitialHandler$2.call(ServletInitialHandler.java:133) [undertow-servlet-2.1.4.Final.jar:2.1.4.Final]
+	at io.undertow.servlet.handlers.ServletInitialHandler$2.call(ServletInitialHandler.java:130) [undertow-servlet-2.1.4.Final.jar:2.1.4.Final]
+	at io.undertow.servlet.core.ServletRequestContextThreadSetupAction$1.call(ServletRequestContextThreadSetupAction.java:48) [undertow-servlet-2.1.4.Final.jar:2.1.4.Final]
+	at io.undertow.servlet.core.ContextClassLoaderSetupAction$1.call(ContextClassLoaderSetupAction.java:43) [undertow-servlet-2.1.4.Final.jar:2.1.4.Final]
+	at io.undertow.servlet.handlers.ServletInitialHandler.dispatchRequest(ServletInitialHandler.java:249) [undertow-servlet-2.1.4.Final.jar:2.1.4.Final]
+	at io.undertow.servlet.handlers.ServletInitialHandler.access$000(ServletInitialHandler.java:78) [undertow-servlet-2.1.4.Final.jar:2.1.4.Final]
+	at io.undertow.servlet.handlers.ServletInitialHandler$1.handleRequest(ServletInitialHandler.java:99) [undertow-servlet-2.1.4.Final.jar:2.1.4.Final]
+	at io.undertow.server.Connectors.executeRootHandler(Connectors.java:370) [undertow-core-2.1.4.Final.jar:2.1.4.Final]
+	at io.undertow.server.HttpServerExchange$1.run(HttpServerExchange.java:836) [undertow-core-2.1.4.Final.jar:2.1.4.Final]
+	at org.jboss.threads.ContextClassLoaderSavingRunnable.run(ContextClassLoaderSavingRunnable.java:35) [jboss-threads-3.1.0.Final.jar:3.1.0.Final]
+	at org.jboss.threads.EnhancedQueueExecutor.safeRun(EnhancedQueueExecutor.java:2019) [jboss-threads-3.1.0.Final.jar:3.1.0.Final]
+	at org.jboss.threads.EnhancedQueueExecutor$ThreadBody.doRunTask(EnhancedQueueExecutor.java:1558) [jboss-threads-3.1.0.Final.jar:3.1.0.Final]
+	at org.jboss.threads.EnhancedQueueExecutor$ThreadBody.run(EnhancedQueueExecutor.java:1449) [jboss-threads-3.1.0.Final.jar:3.1.0.Final]
+	at java.lang.Thread.run(Thread.java:748) [na:1.8.0_221]
+Caused by: org.springframework.web.multipart.MultipartException: Failed to parse multipart servlet request; nested exception is java.lang.RuntimeException: java.io.IOException: UT000036: Connection terminated parsing multipart data
+	at org.springframework.web.multipart.support.StandardMultipartHttpServletRequest.handleParseFailure(StandardMultipartHttpServletRequest.java:124) ~[spring-web-5.2.10.RELEASE.jar:5.2.10.RELEASE]
+	at org.springframework.web.multipart.support.StandardMultipartHttpServletRequest.parseRequest(StandardMultipartHttpServletRequest.java:115) ~[spring-web-5.2.10.RELEASE.jar:5.2.10.RELEASE]
+	at org.springframework.web.multipart.support.StandardMultipartHttpServletRequest.<init>(StandardMultipartHttpServletRequest.java:88) ~[spring-web-5.2.10.RELEASE.jar:5.2.10.RELEASE]
+	at org.springframework.web.multipart.support.StandardServletMultipartResolver.resolveMultipart(StandardServletMultipartResolver.java:87) ~[spring-web-5.2.10.RELEASE.jar:5.2.10.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.checkMultipart(DispatcherServlet.java:1178) ~[spring-webmvc-5.2.10.RELEASE.jar:5.2.10.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1012) ~[spring-webmvc-5.2.10.RELEASE.jar:5.2.10.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:943) ~[spring-webmvc-5.2.10.RELEASE.jar:5.2.10.RELEASE]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006) ~[spring-webmvc-5.2.10.RELEASE.jar:5.2.10.RELEASE]
+	... 50 common frames omitted
+Caused by: java.lang.RuntimeException: java.io.IOException: UT000036: Connection terminated parsing multipart data
+	at io.undertow.servlet.spec.HttpServletRequestImpl.parseFormData(HttpServletRequestImpl.java:851) ~[undertow-servlet-2.1.4.Final.jar:2.1.4.Final]
+	at io.undertow.servlet.spec.HttpServletRequestImpl.loadParts(HttpServletRequestImpl.java:567) ~[undertow-servlet-2.1.4.Final.jar:2.1.4.Final]
+	at io.undertow.servlet.spec.HttpServletRequestImpl.getParts(HttpServletRequestImpl.java:518) ~[undertow-servlet-2.1.4.Final.jar:2.1.4.Final]
+	at org.springframework.web.multipart.support.StandardMultipartHttpServletRequest.parseRequest(StandardMultipartHttpServletRequest.java:95) ~[spring-web-5.2.10.RELEASE.jar:5.2.10.RELEASE]
+	... 56 common frames omitted
+Caused by: java.io.IOException: UT000036: Connection terminated parsing multipart data
+	at io.undertow.server.handlers.form.MultiPartParserDefinition$MultiPartUploadHandler.parseBlocking(MultiPartParserDefinition.java:228) ~[undertow-core-2.1.4.Final.jar:2.1.4.Final]
+	at io.undertow.servlet.spec.HttpServletRequestImpl.parseFormData(HttpServletRequestImpl.java:845) ~[undertow-servlet-2.1.4.Final.jar:2.1.4.Final]
+	... 59 common frames omitted
+
